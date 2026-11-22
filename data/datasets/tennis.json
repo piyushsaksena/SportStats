@@ -1,0 +1,742 @@
+{
+  "sport": "Tennis",
+  "governing_body": "International Tennis Federation (ITF)",
+  "headquarters": "London, United Kingdom",
+  "founded_year": 1913,
+  "history": {
+    "summary": "Modern lawn tennis originated in Birmingham, England, in the early 1870s, developed by Major Harry Gem and Augurio Perera, before being standardized and commercialized by Major Walter Clopton Wingfield in 1873. The All England Croquet and Lawn Tennis Club hosted the inaugural Wimbledon Championships in 1877, establishing the foundational rules, scoring system, and court dimensions that continue to define the sport today.\n\nFollowing the historic advent of the Open Era in 1968—which permitted professionals to compete alongside amateurs at the four Grand Slam tournaments—tennis experienced massive global commercialization. By 2026, the sport features fierce multi-surface rivalries led by a new generation of champions such as Carlos Alcaraz, Jannik Sinner, Alexander Zverev, Aryna Sabalenka, and Coco Gauff, alongside cutting-edge electronic line calling and global year-end championships.",
+    "key_eras": [
+      {
+        "era": "1873–1945 (Lawn Tennis Birth & Amateur Era)",
+        "description": "Founding of Wimbledon, the US National Championships, French Championships, and Australian Championships, dominated by pioneers like Bill Tilden, Suzanne Lenglen, and Don Budge."
+      },
+      {
+        "era": "1946–1979 (Post-War Champions & Dawn of the Open Era)",
+        "description": "Rod Laver's two Calendar-Year Grand Slams, Billie Jean King's Battle of the Sexes and founding of the WTA, and the 1968 transition to the Open Era."
+      },
+      {
+        "era": "1980–2005 (Rivalries, Power Baseline & Global Boom)",
+        "description": "Iconic clashes between Borg-McEnroe, Navratilova-Evert, Sampras-Agassi, and Steffi Graf's historic 1988 Golden Slam."
+      },
+      {
+        "era": "2006–Present (The Big Three Dynasty & New Gen 2026 Era)",
+        "description": "Two decades of dominance by Federer, Nadal, Djokovic, and Serena Williams, transitioning into the 2026 era led by Alcaraz, Sinner, Zverev, Sabalenka, and Gauff."
+      }
+    ]
+  },
+  "major_tournaments": [
+    {
+      "name": "Wimbledon Championships",
+      "format": "128-Player Single Elimination (Grass)",
+      "frequency": "Annual",
+      "first_edition": 1877,
+      "current_holder": "Jannik Sinner (Men's) / Barbora Krejčíková (Women's)",
+      "description": "The oldest and most prestigious tennis tournament in the world, celebrated for its grass courts, strict all-white dress code, and royal heritage."
+    },
+    {
+      "name": "US Open",
+      "format": "128-Player Single Elimination (Hard Court)",
+      "frequency": "Annual",
+      "first_edition": 1881,
+      "current_holder": "Alexander Zverev (Men's) / Coco Gauff (Women's)",
+      "description": "The final Grand Slam of the calendar year held in New York, renowned for electric night sessions at Arthur Ashe Stadium."
+    },
+    {
+      "name": "Roland Garros (French Open)",
+      "format": "128-Player Single Elimination (Clay)",
+      "frequency": "Annual",
+      "first_edition": 1891,
+      "current_holder": "Alexander Zverev (Men's) / Iga Świątek (Women's)",
+      "description": "The premier clay-court championship in Paris, testing physical endurance, sliding movement, and tactical patience."
+    },
+    {
+      "name": "Australian Open",
+      "format": "128-Player Single Elimination (Hard Court)",
+      "frequency": "Annual",
+      "first_edition": 1905,
+      "current_holder": "Carlos Alcaraz (Men's) / Aryna Sabalenka (Women's)",
+      "description": "The 'Happy Slam' opening each season in Melbourne, where Carlos Alcaraz completed the Career Grand Slam in January 2026."
+    }
+  ],
+  "top_50_players": [
+    {
+      "rank": 1,
+      "name": "Novak Djokovic",
+      "country": "Serbia",
+      "flag": "🇷🇸",
+      "role": "All-Court Baseliner",
+      "primary_stat_1": 24,
+      "primary_stat_2": 428,
+      "honors": "24 Grand Slam Singles Titles, Record 428 Weeks at World No. 1, Olympic Gold Medalist"
+    },
+    {
+      "rank": 2,
+      "name": "Rafael Nadal",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 22,
+      "primary_stat_2": 14,
+      "honors": "22 Grand Slam Singles Titles, Record 14 Roland Garros Titles, Career Golden Slam"
+    },
+    {
+      "rank": 3,
+      "name": "Roger Federer",
+      "country": "Switzerland",
+      "flag": "🇨🇭",
+      "role": "All-Court Attacking",
+      "primary_stat_1": 20,
+      "primary_stat_2": 103,
+      "honors": "20 Grand Slam Singles Titles, 8 Wimbledon Titles, 103 ATP Singles Titles"
+    },
+    {
+      "rank": 4,
+      "name": "Serena Williams",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Baseliner",
+      "primary_stat_1": 23,
+      "primary_stat_2": 319,
+      "honors": "23 Open Era Grand Slam Singles Titles, Career Golden Slam, 4x Olympic Gold"
+    },
+    {
+      "rank": 5,
+      "name": "Steffi Graf",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "All-Court Power",
+      "primary_stat_1": 22,
+      "primary_stat_2": 377,
+      "honors": "22 Grand Slam Singles Titles, Only Calendar-Year Golden Slam in History (1988)"
+    },
+    {
+      "rank": 6,
+      "name": "Margaret Court",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 24,
+      "primary_stat_2": 11,
+      "honors": "24 Grand Slam Singles Titles, 1970 Calendar-Year Grand Slam"
+    },
+    {
+      "rank": 7,
+      "name": "Martina Navratilova",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 18,
+      "primary_stat_2": 167,
+      "honors": "18 Grand Slam Singles Titles, Open Era Record 167 Singles Titles, 9 Wimbledon Crowns"
+    },
+    {
+      "rank": 8,
+      "name": "Chris Evert",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Counterpuncher",
+      "primary_stat_1": 18,
+      "primary_stat_2": 154,
+      "honors": "18 Grand Slam Singles Titles, Record 7 Roland Garros Women's Titles, 90% Career Win Rate"
+    },
+    {
+      "rank": 9,
+      "name": "Pete Sampras",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 14,
+      "primary_stat_2": 286,
+      "honors": "14 Grand Slam Singles Titles, 7 Wimbledon Titles, 6 Year-End World No. 1 Finishes"
+    },
+    {
+      "rank": 10,
+      "name": "Rod Laver",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "role": "All-Court Left-Hander",
+      "primary_stat_1": 11,
+      "primary_stat_2": 200,
+      "honors": "Only Player to Win Two Calendar-Year Grand Slams (1962, 1969), 11 Majors"
+    },
+    {
+      "rank": 11,
+      "name": "Björn Borg",
+      "country": "Sweden",
+      "flag": "🇸🇪",
+      "role": "Topspin Baseliner",
+      "primary_stat_1": 11,
+      "primary_stat_2": 109,
+      "honors": "11 Grand Slam Singles Titles, 6 Roland Garros & 5 Consecutive Wimbledon Titles"
+    },
+    {
+      "rank": 12,
+      "name": "Billie Jean King",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 12,
+      "primary_stat_2": 39,
+      "honors": "12 Grand Slam Singles Titles, 39 Total Majors, Founder of the WTA"
+    },
+    {
+      "rank": 13,
+      "name": "Andre Agassi",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Aggressive Returner",
+      "primary_stat_1": 8,
+      "primary_stat_2": 60,
+      "honors": "8 Grand Slam Singles Titles, Career Super Slam, 1996 Olympic Gold Medalist"
+    },
+    {
+      "rank": 14,
+      "name": "Ivan Lendl",
+      "country": "Czech Republic",
+      "flag": "🇨🇿",
+      "role": "Power Baseliner",
+      "primary_stat_1": 8,
+      "primary_stat_2": 270,
+      "honors": "8 Grand Slam Singles Titles, 94 ATP Titles, 270 Weeks at World No. 1"
+    },
+    {
+      "rank": 15,
+      "name": "Jimmy Connors",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Counterpuncher",
+      "primary_stat_1": 8,
+      "primary_stat_2": 109,
+      "honors": "8 Grand Slam Singles Titles, Men's Open Era Record 109 Titles & 1,274 Match Wins"
+    },
+    {
+      "rank": 16,
+      "name": "Carlos Alcaraz",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "All-Court Power",
+      "primary_stat_1": 7,
+      "primary_stat_2": 36,
+      "honors": "Youngest Man to Complete Career Grand Slam (2026 Australian Open), 7 Majors"
+    },
+    {
+      "rank": 17,
+      "name": "John McEnroe",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 7,
+      "primary_stat_2": 170,
+      "honors": "7 Grand Slam Singles Titles, 77 Singles & 78 Doubles Titles"
+    },
+    {
+      "rank": 18,
+      "name": "Mats Wilander",
+      "country": "Sweden",
+      "flag": "🇸🇪",
+      "role": "All-Court Baseliner",
+      "primary_stat_1": 7,
+      "primary_stat_2": 33,
+      "honors": "7 Grand Slam Singles Titles, 3 Majors in 1988"
+    },
+    {
+      "rank": 19,
+      "name": "Monica Seles",
+      "country": "Yugoslavia",
+      "flag": "🇷🇸",
+      "role": "Two-Handed Power",
+      "primary_stat_1": 9,
+      "primary_stat_2": 178,
+      "honors": "9 Grand Slam Singles Titles, Youngest Roland Garros Champion (16)"
+    },
+    {
+      "rank": 20,
+      "name": "Venus Williams",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Baseliner",
+      "primary_stat_1": 7,
+      "primary_stat_2": 49,
+      "honors": "7 Grand Slam Singles Titles, 5 Wimbledon Crowns, 4x Olympic Gold Medalist"
+    },
+    {
+      "rank": 21,
+      "name": "Justine Henin",
+      "country": "Belgium",
+      "flag": "🇧🇪",
+      "role": "All-Court One-Hander",
+      "primary_stat_1": 7,
+      "primary_stat_2": 43,
+      "honors": "7 Grand Slam Singles Titles, 2004 Olympic Gold Medalist"
+    },
+    {
+      "rank": 22,
+      "name": "Boris Becker",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 6,
+      "primary_stat_2": 49,
+      "honors": "6 Grand Slam Singles Titles, Youngest Men's Wimbledon Champion (17)"
+    },
+    {
+      "rank": 23,
+      "name": "Stefan Edberg",
+      "country": "Sweden",
+      "flag": "🇸🇪",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 6,
+      "primary_stat_2": 41,
+      "honors": "6 Grand Slam Singles Titles, 72 Weeks at World No. 1"
+    },
+    {
+      "rank": 24,
+      "name": "Iga Świątek",
+      "country": "Poland",
+      "flag": "🇵🇱",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 5,
+      "primary_stat_2": 125,
+      "honors": "5 Grand Slam Singles Titles, 4 Roland Garros Titles, Dominant World No. 1"
+    },
+    {
+      "rank": 25,
+      "name": "Jannik Sinner",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "role": "Power Baseliner",
+      "primary_stat_1": 5,
+      "primary_stat_2": 65,
+      "honors": "2026 Wimbledon Champion, Multiple Grand Slam Titles, ATP World No. 1"
+    },
+    {
+      "rank": 26,
+      "name": "Maria Sharapova",
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 5,
+      "primary_stat_2": 36,
+      "honors": "5 Grand Slam Singles Titles, Career Grand Slam Achiever"
+    },
+    {
+      "rank": 27,
+      "name": "Martina Hingis",
+      "country": "Switzerland",
+      "flag": "🇨🇭",
+      "role": "All-Court Tactician",
+      "primary_stat_1": 5,
+      "primary_stat_2": 209,
+      "honors": "5 Grand Slam Singles Titles, 20 Grand Slam Doubles/Mixed Titles"
+    },
+    {
+      "rank": 28,
+      "name": "Aryna Sabalenka",
+      "country": "Belarus",
+      "flag": "🇧🇾",
+      "role": "Power Baseliner",
+      "primary_stat_1": 4,
+      "primary_stat_2": 50,
+      "honors": "Multiple Grand Slam Titles, WTA World No. 1"
+    },
+    {
+      "rank": 29,
+      "name": "Andy Murray",
+      "country": "Great Britain",
+      "flag": "🇬🇧",
+      "role": "Counterpuncher",
+      "primary_stat_1": 3,
+      "primary_stat_2": 46,
+      "honors": "3 Grand Slam Singles Titles, Only 2-Time Olympic Singles Gold Medalist"
+    },
+    {
+      "rank": 30,
+      "name": "Stan Wawrinka",
+      "country": "Switzerland",
+      "flag": "🇨🇭",
+      "role": "Power Baseliner",
+      "primary_stat_1": 3,
+      "primary_stat_2": 16,
+      "honors": "3 Grand Slam Singles Titles during the Big Three Era"
+    },
+    {
+      "rank": 31,
+      "name": "Gustavo Kuerten",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Clay-Court Specialist",
+      "primary_stat_1": 3,
+      "primary_stat_2": 20,
+      "honors": "3 Roland Garros Titles, World No. 1 in 2000"
+    },
+    {
+      "rank": 32,
+      "name": "Arthur Ashe",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Serve-and-Volley",
+      "primary_stat_1": 3,
+      "primary_stat_2": 44,
+      "honors": "3 Grand Slam Singles Titles, Pioneer and Civil Rights Icon"
+    },
+    {
+      "rank": 33,
+      "name": "Jim Courier",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Baseliner",
+      "primary_stat_1": 4,
+      "primary_stat_2": 23,
+      "honors": "4 Grand Slam Singles Titles, 58 Weeks at World No. 1"
+    },
+    {
+      "rank": 34,
+      "name": "Guillermo Vilas",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Clay-Court Baseliner",
+      "primary_stat_1": 4,
+      "primary_stat_2": 62,
+      "honors": "4 Grand Slam Singles Titles, 62 ATP Titles, 46-Match Clay Win Streak"
+    },
+    {
+      "rank": 35,
+      "name": "Alexander Zverev",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 2,
+      "primary_stat_2": 25,
+      "honors": "2026 Roland Garros & 2026 US Open Champion, 2020 Olympic Gold, 2026 World No. 1"
+    },
+    {
+      "rank": 36,
+      "name": "Coco Gauff",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "All-Court Athlete",
+      "primary_stat_1": 2,
+      "primary_stat_2": 12,
+      "honors": "2023 & 2026 US Open Champion, WTA Finals Champion"
+    },
+    {
+      "rank": 37,
+      "name": "Lindsay Davenport",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Baseliner",
+      "primary_stat_1": 3,
+      "primary_stat_2": 55,
+      "honors": "3 Grand Slam Singles Titles, 1996 Olympic Gold Medalist"
+    },
+    {
+      "rank": 38,
+      "name": "Kim Clijsters",
+      "country": "Belgium",
+      "flag": "🇧🇪",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 4,
+      "primary_stat_2": 41,
+      "honors": "4 Grand Slam Singles Titles, World No. 1 in Singles and Doubles"
+    },
+    {
+      "rank": 39,
+      "name": "Naomi Osaka",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "role": "Power Baseliner",
+      "primary_stat_1": 4,
+      "primary_stat_2": 7,
+      "honors": "4 Hard-Court Grand Slam Titles, Former World No. 1"
+    },
+    {
+      "rank": 40,
+      "name": "Ashleigh Barty",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "role": "All-Court Tactician",
+      "primary_stat_1": 3,
+      "primary_stat_2": 15,
+      "honors": "3 Grand Slam Singles Titles on 3 Surfaces, 121 Weeks at World No. 1"
+    },
+    {
+      "rank": 41,
+      "name": "Daniil Medvedev",
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "role": "Defensive Baseliner",
+      "primary_stat_1": 1,
+      "primary_stat_2": 20,
+      "honors": "2021 US Open Champion, ATP Finals Champion, Former World No. 1"
+    },
+    {
+      "rank": 42,
+      "name": "Elena Rybakina",
+      "country": "Kazakhstan",
+      "flag": "🇰🇿",
+      "role": "Big-Serving Baseliner",
+      "primary_stat_1": 1,
+      "primary_stat_2": 10,
+      "honors": "2022 Wimbledon Champion, 2025 WTA Finals Champion, 2026 World No. 1"
+    },
+    {
+      "rank": 43,
+      "name": "Victoria Azarenka",
+      "country": "Belarus",
+      "flag": "🇧🇾",
+      "role": "Aggressive Baseliner",
+      "primary_stat_1": 2,
+      "primary_stat_2": 21,
+      "honors": "2 Australian Open Titles, Olympic Gold Medalist, Former World No. 1"
+    },
+    {
+      "rank": 44,
+      "name": "Petra Kvitová",
+      "country": "Czech Republic",
+      "flag": "🇨🇿",
+      "role": "Left-Handed Power",
+      "primary_stat_1": 2,
+      "primary_stat_2": 31,
+      "honors": "2 Wimbledon Titles, WTA Finals Champion"
+    },
+    {
+      "rank": 45,
+      "name": "Angelique Kerber",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Left-Handed Counterpuncher",
+      "primary_stat_1": 3,
+      "primary_stat_2": 14,
+      "honors": "3 Grand Slam Singles Titles, Olympic Silver Medalist"
+    },
+    {
+      "rank": 46,
+      "name": "Simona Halep",
+      "country": "Romania",
+      "flag": "🇷🇴",
+      "role": "Counterpuncher",
+      "primary_stat_1": 2,
+      "primary_stat_2": 24,
+      "honors": "Roland Garros & Wimbledon Champion, 64 Weeks at World No. 1"
+    },
+    {
+      "rank": 47,
+      "name": "Lleyton Hewitt",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "role": "Counterpuncher",
+      "primary_stat_1": 2,
+      "primary_stat_2": 30,
+      "honors": "2 Grand Slam Titles, 80 Weeks at World No. 1, 2x Davis Cup Champion"
+    },
+    {
+      "rank": 48,
+      "name": "Juan Martín del Potro",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Power Baseliner",
+      "primary_stat_1": 1,
+      "primary_stat_2": 22,
+      "honors": "2009 US Open Champion, 2016 Davis Cup Winner, 2x Olympic Medalist"
+    },
+    {
+      "rank": 49,
+      "name": "Ben Shelton",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Big-Serving Left-Hander",
+      "primary_stat_1": 0,
+      "primary_stat_2": 5,
+      "honors": "2026 US Open Finalist, 2026 Nitto ATP Finals Qualifier"
+    },
+    {
+      "rank": 50,
+      "name": "Mirra Andreeva",
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "role": "All-Court Baseliner",
+      "primary_stat_1": 0,
+      "primary_stat_2": 4,
+      "honors": "2026 WTA Finals Semifinalist, Olympic Silver Medalist"
+    }
+  ],
+  "matches_2026": [
+    {
+      "id": "match-tennis-1",
+      "title": "2026 FAGE WTA Finals (Semifinal)",
+      "date": "15 Nov 2026",
+      "venue": "Indian Wells Tennis Garden, Indian Wells",
+      "status": "SCHEDULED",
+      "team1": {
+        "name": "Jessica Pegula",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "team2": {
+        "name": "Mirra Andreeva",
+        "flag": "🇷🇺",
+        "score": "Upcoming"
+      },
+      "note": "Semifinal marquee clash at the season-ending championship.",
+      "key_performers": "Jessica Pegula vs Mirra Andreeva"
+    },
+    {
+      "id": "match-tennis-2",
+      "title": "2026 Nitto ATP Finals - Group Stage",
+      "date": "16 Nov 2026",
+      "venue": "Inalpi Arena, Turin",
+      "status": "SCHEDULED",
+      "team1": {
+        "name": "Carlos Alcaraz",
+        "flag": "🇪🇸",
+        "score": "Upcoming"
+      },
+      "team2": {
+        "name": "Frances Tiafoe",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "note": "Afternoon singles group stage match in Turin at 18:30 IST (14:00 CET).",
+      "key_performers": "Carlos Alcaraz vs Frances Tiafoe"
+    },
+    {
+      "id": "match-tennis-3",
+      "title": "2026 Nitto ATP Finals - Group Stage",
+      "date": "15 Nov 2026",
+      "venue": "Inalpi Arena, Turin",
+      "status": "COMPLETED",
+      "team1": {
+        "name": "Alexander Zverev",
+        "flag": "🇩🇪",
+        "score": "6-4, 7-6"
+      },
+      "team2": {
+        "name": "Rafael Jodar",
+        "flag": "🇪🇸",
+        "score": "4-6, 6-7"
+      },
+      "note": "Final: Two-time champion Alexander Zverev secured straight-sets victory in opening round-robin match.",
+      "key_performers": "Alexander Zverev (18 aces)"
+    }
+  ],
+  "team_fixtures": {
+    "Carlos Alcaraz": {
+      "upcoming": [
+        {
+          "opp": "vs Frances Tiafoe",
+          "date": "16 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        },
+        {
+          "opp": "vs Daniil Medvedev",
+          "date": "18 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        },
+        {
+          "opp": "vs Flavio Cobolli",
+          "date": "20 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Taylor Fritz",
+          "date": "02 Nov 2026",
+          "res": "WON",
+          "score": "6-4, 7-6",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Alexander Zverev",
+          "date": "01 Nov 2026",
+          "res": "LOST",
+          "score": "5-7, 4-6",
+          "hero": "Alexander Zverev"
+        },
+        {
+          "opp": "vs Arthur Fils",
+          "date": "31 Oct 2026",
+          "res": "WON",
+          "score": "6-3, 6-4",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Ben Shelton",
+          "date": "30 Oct 2026",
+          "res": "WON",
+          "score": "7-5, 6-3",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Daniil Medvedev",
+          "date": "13 Oct 2026",
+          "res": "WON",
+          "score": "6-2, 6-4",
+          "hero": "Carlos Alcaraz"
+        }
+      ]
+    },
+    "carlos_alcaraz": {
+      "upcoming": [
+        {
+          "opp": "vs Frances Tiafoe",
+          "date": "16 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        },
+        {
+          "opp": "vs Daniil Medvedev",
+          "date": "18 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        },
+        {
+          "opp": "vs Flavio Cobolli",
+          "date": "20 Nov 2026",
+          "venue": "Inalpi Arena, Turin",
+          "comp": "Nitto ATP Finals"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Taylor Fritz",
+          "date": "02 Nov 2026",
+          "res": "WON",
+          "score": "6-4, 7-6",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Alexander Zverev",
+          "date": "01 Nov 2026",
+          "res": "LOST",
+          "score": "5-7, 4-6",
+          "hero": "Alexander Zverev"
+        },
+        {
+          "opp": "vs Arthur Fils",
+          "date": "31 Oct 2026",
+          "res": "WON",
+          "score": "6-3, 6-4",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Ben Shelton",
+          "date": "30 Oct 2026",
+          "res": "WON",
+          "score": "7-5, 6-3",
+          "hero": "Carlos Alcaraz"
+        },
+        {
+          "opp": "vs Daniil Medvedev",
+          "date": "13 Oct 2026",
+          "res": "WON",
+          "score": "6-2, 6-4",
+          "hero": "Carlos Alcaraz"
+        }
+      ]
+    }
+  }
+}

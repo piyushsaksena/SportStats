@@ -1,0 +1,22 @@
+{
+  "name": "sportstats",
+  "version": "1.0.0",
+  "description": "Multi-sport statistical framework and AI-assisted performance intelligence platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m uvicorn sportstats.api.main:app --app-dir backend/src --host 127.0.0.1 --port 8000 --reload",
+    "test": "python -m pytest backend/tests/ -q",
+    "build": "echo 'SportStats zero-build static deployment ready.'"
+  },
+  "keywords": [
+    "sports-analytics",
+    "fastapi",
+    "svg-radar",
+    "cricket",
+    "football",
+    "basketball",
+    "tennis"
+  ],
+  "author": "SportStats Team",
+  "license": "MIT"
+}

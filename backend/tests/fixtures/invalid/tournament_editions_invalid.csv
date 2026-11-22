@@ -1,0 +1,5 @@
+sport_code,tournament_name,governing_body,edition_label,year,host_country_iso3,host_city,start_date,end_date,participant_count,format_description,matches_or_events_count,winner,runner_up,source_org,source_url,retrieved_on
+cricket,Cricket World Cup,ICC,2023,2023,IND,Ahmedabad,2023-11-19,2023-10-05,10,Round-robin group stage,48,Australia,India,ICC,https://www.icc-cricket.com/cwc2023,2024-01-15T00:00:00Z
+football,FIFA World Cup,FIFA,2022,2022,XYZ_INVALID_LAND,Doha,2022-11-20,2022-12-18,32,Group stage,64,Argentina,France,FIFA,https://www.fifa.com/worldcup/2022,2024-01-15T00:00:00Z
+tennis,=cmd|' /C calc'!A0,AELTC,2023,2023,GBR,London,2023-07-03,2023-07-16,128,Knockout,127,Carlos Alcaraz,Novak Djokovic,AELTC / Grand Slam,https://www.wimbledon.com/draws/2023,2024-01-15T00:00:00Z
+badminton,BWF World Championships,BWF,2023,2023,DNK,Copenhagen,2023-08-21,2023-08-27,64,Knockout,63,Kunlavut Vitidsarn,Kodai Naraoka,BWF,,2024-01-15T00:00:00Z

@@ -1,0 +1,7 @@
+sport_code,tournament_name,edition_label,participant,metric_code,value,scope,source_url,retrieved_on
+cricket,Cricket World Cup,2023,Virat Kohli,runs,765,edition,https://www.icc-cricket.com/cwc2023/stats,2024-01-15T00:00:00Z
+cricket,Cricket World Cup,2023,Mohammed Shami,wickets,24,edition,https://www.icc-cricket.com/cwc2023/stats,2024-01-15T00:00:00Z
+football,FIFA World Cup,2022,Kylian Mbappe,goals,8,edition,https://www.fifa.com/worldcup/2022/stats,2024-01-15T00:00:00Z
+football,FIFA World Cup,2022,Lionel Messi,goals,7,edition,https://www.fifa.com/worldcup/2022/stats,2024-01-15T00:00:00Z
+basketball,FIBA Basketball World Cup,2023,Dennis Schroder,points,153,edition,https://www.fiba.basketball/stats/2023,2024-01-15T00:00:00Z
+basketball,FIBA Basketball World Cup,2023,Dennis Schroder,fg_pct,43.5,edition,https://www.fiba.basketball/stats/2023,2024-01-15T00:00:00Z

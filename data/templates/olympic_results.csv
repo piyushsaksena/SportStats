@@ -1,0 +1,4 @@
+edition_label,discipline,event_name,participant,country_iso3,rank,medal,result_value,result_unit,is_world_record,is_olympic_record,source_url,retrieved_on
+Tokyo 2020,athletics,Men's 100m,Marcell Jacobs,ITA,1,gold,9.80,seconds,false,false,https://olympics.com/en/olympic-games/tokyo-2020/results/athletics/men-s-100m,2024-01-15T00:00:00Z
+Tokyo 2020,athletics,Men's 100m,Fred Kerley,USA,2,silver,9.84,seconds,false,false,https://olympics.com/en/olympic-games/tokyo-2020/results/athletics/men-s-100m,2024-01-15T00:00:00Z
+Tokyo 2020,athletics,Men's 100m,Andre De Grasse,CAN,3,bronze,9.89,seconds,false,false,https://olympics.com/en/olympic-games/tokyo-2020/results/athletics/men-s-100m,2024-01-15T00:00:00Z

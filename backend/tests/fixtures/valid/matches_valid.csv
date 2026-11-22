@@ -1,0 +1,3 @@
+sport_code,tournament_name,edition_label,stage,match_date_utc,venue,participant_a,participant_b,score_a,score_b,winner,is_draw,result_summary,source_url,retrieved_on
+football,FIFA World Cup,2022,Final,2022-12-18T15:00:00Z,Lusail Iconic Stadium,Argentina,France,3,3,Argentina,false,Argentina won 4-2 on penalties,https://www.fifa.com/match/final-2022,2024-01-15T00:00:00Z
+cricket,Cricket World Cup,2023,Final,2023-11-19T08:30:00Z,Narendra Modi Stadium,India,Australia,240,241,Australia,false,Australia won by 6 wickets,https://www.icc-cricket.com/match/cwc-2023-final,2024-01-15T00:00:00Z

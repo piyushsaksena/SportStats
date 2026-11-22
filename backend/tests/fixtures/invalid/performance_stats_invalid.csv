@@ -1,0 +1,6 @@
+sport_code,tournament_name,edition_label,participant,metric_code,value,scope,source_url,retrieved_on
+basketball,FIBA Basketball World Cup,2023,Dennis Schroder,fg_pct,120.0,edition,https://www.fiba.basketball/stats,2024-01-15T00:00:00Z
+football,FIFA World Cup,2022,Lionel Messi,passing_accuracy,-5.0,edition,https://www.fifa.com/stats,2024-01-15T00:00:00Z
+cricket,Cricket World Cup,2023,Virat Kohli,non_existent_metric,500,edition,https://www.icc-cricket.com/stats,2024-01-15T00:00:00Z
+cricket,Cricket World Cup,2023,Rohit Sharma,runs,-50,edition,https://www.icc-cricket.com/stats,2024-01-15T00:00:00Z
+cricket,Cricket World Cup,2023,KL Rahul,runs,452,edition,,2024-01-15T00:00:00Z

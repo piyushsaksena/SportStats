@@ -1,0 +1,4 @@
+sport_code,ranking_system,category,as_of_date,rank,participant,points,source_url,retrieved_on
+football,FIFA Men's World Ranking,Team,2022-12-22,1,Brazil,1840.77,https://www.fifa.com/fifa-world-ranking/men,2024-01-15T00:00:00Z
+football,FIFA Men's World Ranking,Team,2022-12-22,2,Argentina,1838.38,https://www.fifa.com/fifa-world-ranking/men,2024-01-15T00:00:00Z
+football,FIFA Men's World Ranking,Team,2022-12-22,3,France,1823.39,https://www.fifa.com/fifa-world-ranking/men,2024-01-15T00:00:00Z

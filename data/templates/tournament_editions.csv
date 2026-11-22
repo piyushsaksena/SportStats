@@ -1,0 +1,2 @@
+sport_code,tournament_name,governing_body,edition_label,year,host_country_iso3,host_city,start_date,end_date,participant_count,format_description,matches_or_events_count,winner,runner_up,source_org,source_url,retrieved_on
+cricket,Cricket World Cup,ICC,2023,2023,IND,Ahmedabad,2023-10-05,2023-11-19,10,Round-robin group stage followed by knockouts,48,Australia,India,ICC,https://www.icc-cricket.com/tournaments/cricketworldcup/2023,2024-01-15T00:00:00Z

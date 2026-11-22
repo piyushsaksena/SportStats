@@ -1,0 +1,667 @@
+{
+  "sport": "Basketball",
+  "governing_body": "International Basketball Federation (FIBA)",
+  "headquarters": "Mies, Switzerland",
+  "founded_year": 1932,
+  "history": {
+    "summary": "Basketball was invented in December 1891 by Canadian-American physical education instructor Dr. James Naismith in Springfield, Massachusetts, using peach baskets and a soccer ball. Originally designed as an indoor winter conditioning activity, the game rapidly spread across U.S. colleges and international YMCAs, becoming an official Olympic medal sport at the 1936 Berlin Games.\n\nFollowing the merger of the BAA and NBL to form the National Basketball Association (NBA) in 1949, basketball evolved into a global cultural and athletic powerhouse. By 2026, the sport features unprecedented international parity, high-pace three-point analytics, global superstars dominating leagues across North America and Europe, and record-breaking growth in women's professional and international competition.",
+    "key_eras": [
+      {
+        "era": "1891–1945 (Invention & Collegiate Foundations)",
+        "description": "Creation of Naismith's 13 original rules, rise of NCAA tournament basketball, and debut at the 1936 Berlin Olympics."
+      },
+      {
+        "era": "1946–1979 (NBA Birth, Shot Clock & Dynasties)",
+        "description": "Introduction of the 24-second shot clock, Bill Russell's 11 championships with Boston, and Wilt Chamberlain's statistical dominance."
+      },
+      {
+        "era": "1980–2005 (Magic vs. Bird, Jordan & Dream Team)",
+        "description": "Global television explosion sparked by Magic Johnson and Larry Bird, Michael Jordan's six titles, and the 1992 Barcelona Olympic Dream Team."
+      },
+      {
+        "era": "2006–Present (Pace-and-Space, International MVP Era & 2026)",
+        "description": "The three-point revolution led by Stephen Curry, LeBron James' longevity records, and international superstars like Jokić, Antetokounmpo, and Wembanyama."
+      }
+    ]
+  },
+  "major_tournaments": [
+    {
+      "name": "NBA Finals",
+      "format": "Best-of-7 Playoff Series",
+      "frequency": "Annual",
+      "first_edition": 1947,
+      "current_holder": "New York Knicks",
+      "description": "The championship series of the National Basketball Association, crowning the premier professional club team in the world."
+    },
+    {
+      "name": "FIBA Basketball World Cup",
+      "format": "32-Team Group & Knockout Tournament",
+      "frequency": "Every 4 Years",
+      "first_edition": 1950,
+      "current_holder": "Germany (Men's) / United States (Women's)",
+      "description": "The flagship international tournament contested by senior national teams from around the globe."
+    }
+  ],
+  "top_50_players": [
+    {
+      "rank": 1,
+      "name": "Michael Jordan",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 32292,
+      "primary_stat_2": 30.1,
+      "honors": "6x NBA Champion, 6x Finals MVP, 5x NBA MVP, 2x Olympic Gold Medalist"
+    },
+    {
+      "rank": 2,
+      "name": "LeBron James",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 40500,
+      "primary_stat_2": 27.1,
+      "honors": "4x NBA Champion, 4x Finals MVP, 4x NBA MVP, All-time NBA Leading Scorer"
+    },
+    {
+      "rank": 3,
+      "name": "Kareem Abdul-Jabbar",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 38387,
+      "primary_stat_2": 24.6,
+      "honors": "6x NBA Champion, 6x NBA MVP, 19x NBA All-Star"
+    },
+    {
+      "rank": 4,
+      "name": "Magic Johnson",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 17707,
+      "primary_stat_2": 11.2,
+      "honors": "5x NBA Champion, 3x Finals MVP, 3x NBA MVP, All-time APG leader"
+    },
+    {
+      "rank": 5,
+      "name": "Larry Bird",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 21791,
+      "primary_stat_2": 24.3,
+      "honors": "3x NBA Champion, 2x Finals MVP, 3x consecutive NBA MVP"
+    },
+    {
+      "rank": 6,
+      "name": "Bill Russell",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 14522,
+      "primary_stat_2": 22.5,
+      "honors": "11x NBA Champion, 5x NBA MVP, Olympic Gold Medalist"
+    },
+    {
+      "rank": 7,
+      "name": "Wilt Chamberlain",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 31419,
+      "primary_stat_2": 30.1,
+      "honors": "2x NBA Champion, 4x NBA MVP, 100-point single-game record"
+    },
+    {
+      "rank": 8,
+      "name": "Tim Duncan",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Forward / Center",
+      "primary_stat_1": 26496,
+      "primary_stat_2": 19.0,
+      "honors": "5x NBA Champion, 3x Finals MVP, 2x NBA MVP"
+    },
+    {
+      "rank": 9,
+      "name": "Kobe Bryant",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 33643,
+      "primary_stat_2": 25.0,
+      "honors": "5x NBA Champion, 2x Finals MVP, 2008 NBA MVP, 81-point game"
+    },
+    {
+      "rank": 10,
+      "name": "Shaquille O'Neal",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 28596,
+      "primary_stat_2": 23.7,
+      "honors": "4x NBA Champion, 3x consecutive Finals MVP, 2000 NBA MVP"
+    },
+    {
+      "rank": 11,
+      "name": "Stephen Curry",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 23800,
+      "primary_stat_2": 24.8,
+      "honors": "4x NBA Champion, 2x NBA MVP (first unanimous), All-time 3PT leader"
+    },
+    {
+      "rank": 12,
+      "name": "Hakeem Olajuwon",
+      "country": "Nigeria",
+      "flag": "🇳🇬",
+      "role": "Center",
+      "primary_stat_1": 26946,
+      "primary_stat_2": 21.8,
+      "honors": "2x NBA Champion, 2x Finals MVP, 1994 NBA MVP, All-time blocks leader"
+    },
+    {
+      "rank": 13,
+      "name": "Kevin Durant",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 29000,
+      "primary_stat_2": 27.3,
+      "honors": "2x NBA Champion, 2x Finals MVP, 2014 NBA MVP, 4x Olympic Gold Medalist"
+    },
+    {
+      "rank": 14,
+      "name": "Nikola Jokić",
+      "country": "Serbia",
+      "flag": "🇷🇸",
+      "role": "Center",
+      "primary_stat_1": 14500,
+      "primary_stat_2": 21.0,
+      "honors": "NBA Champion, Finals MVP, 3x NBA MVP, Olympic Bronze Medalist"
+    },
+    {
+      "rank": 15,
+      "name": "Giannis Antetokounmpo",
+      "country": "Greece",
+      "flag": "🇬🇷",
+      "role": "Power Forward",
+      "primary_stat_1": 18800,
+      "primary_stat_2": 23.4,
+      "honors": "NBA Champion, Finals MVP, 2x NBA MVP, Defensive Player of the Year"
+    },
+    {
+      "rank": 16,
+      "name": "Oscar Robertson",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 26710,
+      "primary_stat_2": 25.7,
+      "honors": "NBA Champion, 1964 NBA MVP, first player to average a triple-double"
+    },
+    {
+      "rank": 17,
+      "name": "Jerry West",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 25192,
+      "primary_stat_2": 27.0,
+      "honors": "NBA Champion, only Finals MVP from losing team, 14x All-Star"
+    },
+    {
+      "rank": 18,
+      "name": "Dirk Nowitzki",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Power Forward",
+      "primary_stat_1": 31560,
+      "primary_stat_2": 20.7,
+      "honors": "2011 NBA Champion & Finals MVP, 2007 NBA MVP"
+    },
+    {
+      "rank": 19,
+      "name": "Karl Malone",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Forward",
+      "primary_stat_1": 36928,
+      "primary_stat_2": 25.0,
+      "honors": "2x NBA MVP, 14x All-Star, 2x Olympic Gold Medalist"
+    },
+    {
+      "rank": 20,
+      "name": "Moses Malone",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 27409,
+      "primary_stat_2": 20.6,
+      "honors": "NBA Champion, Finals MVP, 3x NBA MVP"
+    },
+    {
+      "rank": 21,
+      "name": "Julius Erving",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 30026,
+      "primary_stat_2": 24.2,
+      "honors": "NBA Champion, 1981 NBA MVP, 3x ABA MVP"
+    },
+    {
+      "rank": 22,
+      "name": "Charles Barkley",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Forward",
+      "primary_stat_1": 23757,
+      "primary_stat_2": 22.1,
+      "honors": "1993 NBA MVP, 11x All-Star, 2x Olympic Gold Medalist"
+    },
+    {
+      "rank": 23,
+      "name": "Kevin Garnett",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Forward",
+      "primary_stat_1": 26071,
+      "primary_stat_2": 17.8,
+      "honors": "2008 NBA Champion, 2004 NBA MVP, 2008 Defensive Player of the Year"
+    },
+    {
+      "rank": 24,
+      "name": "Dwyane Wade",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 23165,
+      "primary_stat_2": 22.0,
+      "honors": "3x NBA Champion, 2006 Finals MVP, 13x All-Star"
+    },
+    {
+      "rank": 25,
+      "name": "Kawhi Leonard",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 14000,
+      "primary_stat_2": 20.0,
+      "honors": "2x NBA Champion, 2x Finals MVP, 2x Defensive Player of the Year"
+    },
+    {
+      "rank": 26,
+      "name": "Luka Dončić",
+      "country": "Slovenia",
+      "flag": "🇸🇮",
+      "role": "Point Guard",
+      "primary_stat_1": 11800,
+      "primary_stat_2": 28.7,
+      "honors": "NBA Scoring Champion, 5x All-NBA First Team, EuroLeague MVP"
+    },
+    {
+      "rank": 27,
+      "name": "Shai Gilgeous-Alexander",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "role": "Point Guard",
+      "primary_stat_1": 9500,
+      "primary_stat_2": 23.0,
+      "honors": "All-NBA First Team, FIBA World Cup Bronze Medalist"
+    },
+    {
+      "rank": 28,
+      "name": "Jalen Brunson",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 7500,
+      "primary_stat_2": 18.5,
+      "honors": "2026 NBA Champion & Finals MVP, All-NBA selection"
+    },
+    {
+      "rank": 29,
+      "name": "Victor Wembanyama",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Center / Power Forward",
+      "primary_stat_1": 2500,
+      "primary_stat_2": 22.5,
+      "honors": "NBA Rookie of the Year, Olympic Silver Medalist, 2026 NBA Finalist"
+    },
+    {
+      "rank": 30,
+      "name": "Jayson Tatum",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 12200,
+      "primary_stat_2": 23.2,
+      "honors": "2024 NBA Champion, 2x Olympic Gold Medalist, All-NBA First Team"
+    },
+    {
+      "rank": 31,
+      "name": "David Robinson",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 20790,
+      "primary_stat_2": 21.1,
+      "honors": "2x NBA Champion, 1995 NBA MVP, Defensive Player of the Year"
+    },
+    {
+      "rank": 32,
+      "name": "John Stockton",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 19711,
+      "primary_stat_2": 10.5,
+      "honors": "All-time NBA leader in Assists (15,806) and Steals (3,265)"
+    },
+    {
+      "rank": 33,
+      "name": "Isiah Thomas",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 18822,
+      "primary_stat_2": 19.2,
+      "honors": "2x NBA Champion, 1990 Finals MVP, 12x All-Star"
+    },
+    {
+      "rank": 34,
+      "name": "Scottie Pippen",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 18940,
+      "primary_stat_2": 16.1,
+      "honors": "6x NBA Champion, 8x All-Defensive First Team, 2x Olympic Gold"
+    },
+    {
+      "rank": 35,
+      "name": "Allen Iverson",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 24368,
+      "primary_stat_2": 26.7,
+      "honors": "2001 NBA MVP, 4x NBA Scoring Champion, 11x All-Star"
+    },
+    {
+      "rank": 36,
+      "name": "Steve Nash",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "role": "Point Guard",
+      "primary_stat_1": 17387,
+      "primary_stat_2": 8.5,
+      "honors": "2x consecutive NBA MVP (2005, 2006), 4x 50-40-90 club"
+    },
+    {
+      "rank": 37,
+      "name": "Chris Paul",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 22500,
+      "primary_stat_2": 9.4,
+      "honors": "12x All-Star, 2x Olympic Gold Medalist, top-3 all-time assists & steals"
+    },
+    {
+      "rank": 38,
+      "name": "James Harden",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 26000,
+      "primary_stat_2": 24.1,
+      "honors": "2018 NBA MVP, 3x NBA Scoring Champion, 2x Assists leader"
+    },
+    {
+      "rank": 39,
+      "name": "Russell Westbrook",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Point Guard",
+      "primary_stat_1": 25500,
+      "primary_stat_2": 21.7,
+      "honors": "2017 NBA MVP, All-time NBA Triple-Double leader"
+    },
+    {
+      "rank": 40,
+      "name": "Anthony Davis",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Power Forward / Center",
+      "primary_stat_1": 18000,
+      "primary_stat_2": 24.1,
+      "honors": "2020 NBA Champion, 2x Olympic Gold Medalist, 3x Blocks leader"
+    },
+    {
+      "rank": 41,
+      "name": "Joel Embiid",
+      "country": "Cameroon",
+      "flag": "🇨🇲",
+      "role": "Center",
+      "primary_stat_1": 12200,
+      "primary_stat_2": 27.9,
+      "honors": "2023 NBA MVP, 2x NBA Scoring Champion, 2024 Olympic Gold Medalist"
+    },
+    {
+      "rank": 42,
+      "name": "Patrick Ewing",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Center",
+      "primary_stat_1": 24815,
+      "primary_stat_2": 21.0,
+      "honors": "11x All-Star, 2x Olympic Gold Medalist, Knicks franchise legend"
+    },
+    {
+      "rank": 43,
+      "name": "Elgin Baylor",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Small Forward",
+      "primary_stat_1": 23149,
+      "primary_stat_2": 27.4,
+      "honors": "11x All-Star, 10x All-NBA First Team"
+    },
+    {
+      "rank": 44,
+      "name": "George Gervin",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 26595,
+      "primary_stat_2": 25.1,
+      "honors": "4x NBA Scoring Champion, 12x All-Star"
+    },
+    {
+      "rank": 45,
+      "name": "Ray Allen",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 24505,
+      "primary_stat_2": 18.9,
+      "honors": "2x NBA Champion, 10x All-Star, iconic 2013 Finals Game 6 shot"
+    },
+    {
+      "rank": 46,
+      "name": "Reggie Miller",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 25279,
+      "primary_stat_2": 18.2,
+      "honors": "5x All-Star, Olympic Gold Medalist, Pacers franchise icon"
+    },
+    {
+      "rank": 47,
+      "name": "Pau Gasol",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Power Forward / Center",
+      "primary_stat_1": 20894,
+      "primary_stat_2": 17.0,
+      "honors": "2x NBA Champion, FIBA World Cup MVP, 3x EuroBasket Champion"
+    },
+    {
+      "rank": 48,
+      "name": "Tony Parker",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Point Guard",
+      "primary_stat_1": 19473,
+      "primary_stat_2": 15.5,
+      "honors": "4x NBA Champion, 2007 Finals MVP, EuroBasket MVP"
+    },
+    {
+      "rank": 49,
+      "name": "Manu Ginóbili",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Shooting Guard",
+      "primary_stat_1": 14043,
+      "primary_stat_2": 13.3,
+      "honors": "4x NBA Champion, 2004 Olympic Gold Medalist & MVP, Sixth Man of the Year"
+    },
+    {
+      "rank": 50,
+      "name": "Anthony Edwards",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "role": "Shooting Guard",
+      "primary_stat_1": 7200,
+      "primary_stat_2": 23.0,
+      "honors": "2024 Olympic Gold Medalist, All-NBA selection, explosive young star"
+    }
+  ],
+  "matches_2026": [
+    {
+      "id": "match-basketball-1",
+      "title": "2026–27 NBA Regular Season",
+      "date": "15 Nov 2026",
+      "venue": "Smoothie King Center, New Orleans",
+      "status": "SCHEDULED",
+      "team1": {
+        "name": "New Orleans Pelicans",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "team2": {
+        "name": "Denver Nuggets",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "note": "Tip-off at 5:30 AM IST on Nov 15, 2026; Western Conference clash.",
+      "key_performers": "Nikola Jokić, Jamal Murray, and Zion Williamson"
+    },
+    {
+      "id": "match-basketball-2",
+      "title": "2026–27 NBA Regular Season",
+      "date": "15 Nov 2026",
+      "venue": "Rocket Arena, Cleveland",
+      "status": "SCHEDULED",
+      "team1": {
+        "name": "Cleveland Cavaliers",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "team2": {
+        "name": "Dallas Mavericks",
+        "flag": "🇺🇸",
+        "score": "Upcoming"
+      },
+      "note": "Tip-off at 6:00 AM IST on Nov 15, 2026.",
+      "key_performers": "Luka Dončić, Donovan Mitchell, and Evan Mobley"
+    },
+    {
+      "id": "match-basketball-3",
+      "title": "2026 Emirates NBA Cup Group Stage",
+      "date": "14 Nov 2026",
+      "venue": "Frost Bank Center, San Antonio",
+      "status": "COMPLETED",
+      "team1": {
+        "name": "San Antonio Spurs",
+        "flag": "🇺🇸",
+        "score": "123"
+      },
+      "team2": {
+        "name": "Golden State Warriors",
+        "flag": "🇺🇸",
+        "score": "85"
+      },
+      "note": "Final: San Antonio Spurs dominated at home for a 38-point NBA Cup victory.",
+      "key_performers": "Victor Wembanyama & De'Aaron Fox"
+    }
+  ],
+  "team_fixtures": {
+    "New York Knicks": {
+      "upcoming": [
+        {
+          "opp": "vs Toronto Raptors",
+          "date": "16 Nov 2026",
+          "venue": "Scotiabank Arena, Toronto",
+          "comp": "NBA Regular Season"
+        },
+        {
+          "opp": "vs Charlotte Hornets",
+          "date": "18 Nov 2026",
+          "venue": "Madison Square Garden, New York",
+          "comp": "NBA Regular Season"
+        },
+        {
+          "opp": "vs Chicago Bulls",
+          "date": "20 Nov 2026",
+          "venue": "Madison Square Garden, New York",
+          "comp": "NBA Regular Season"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Indiana Pacers",
+          "date": "14 Nov 2026",
+          "res": "LOST",
+          "score": "104-106",
+          "hero": "Jalen Brunson"
+        },
+        {
+          "opp": "vs Brooklyn Nets",
+          "date": "10 Nov 2026",
+          "res": "WON",
+          "score": "118-109",
+          "hero": "Karl-Anthony Towns"
+        },
+        {
+          "opp": "vs Atlanta Hawks",
+          "date": "07 Nov 2026",
+          "res": "WON",
+          "score": "121-112",
+          "hero": "Jalen Brunson"
+        },
+        {
+          "opp": "vs Boston Celtics",
+          "date": "03 Nov 2026",
+          "res": "LOST",
+          "score": "108-115",
+          "hero": "Mikal Bridges"
+        },
+        {
+          "opp": "vs Miami Heat",
+          "date": "30 Oct 2026",
+          "res": "WON",
+          "score": "114-101",
+          "hero": "Josh Hart"
+        }
+      ]
+    }
+  }
+}

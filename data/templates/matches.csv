@@ -1,0 +1,2 @@
+sport_code,tournament_name,edition_label,stage,match_date_utc,venue,participant_a,participant_b,score_a,score_b,winner,is_draw,result_summary,source_url,retrieved_on
+cricket,Cricket World Cup,2023,Final,2023-11-19T08:30:00Z,Narendra Modi Stadium,India,Australia,240,241,Australia,false,Australia won by 6 wickets,https://www.icc-cricket.com/match/final-2023,2024-01-15T00:00:00Z

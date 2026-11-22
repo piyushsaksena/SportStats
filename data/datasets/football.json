@@ -1,0 +1,1060 @@
+{
+  "sport": "Football",
+  "governing_body": "Fédération Internationale de Football Association (FIFA)",
+  "headquarters": "Zürich, Switzerland",
+  "founded_year": 1904,
+  "history": {
+    "summary": "Association football evolved from traditional ball games played in medieval Britain, with its modern rules codified in 1863 by the Football Association in London. The sport expanded rapidly across Europe and South America during the late 19th and early 20th centuries, leading to the creation of FIFA in 1904 and the inaugural FIFA World Cup in 1930.\n\nOver the decades, football transformed into the world's most popular global sport. The modern era has been characterized by massive commercial broadcasting revenues, globalized club ownership, state-of-the-art sports science, tactical innovations such as high-pressing and tiki-taka, and unprecedented professional milestones across both men's and women's competitions by 2026.",
+    "key_eras": [
+      {
+        "era": "1890–1945 (Codification & Olympic Dominance)",
+        "description": "Early international matches, introduction of the Olympic football tournament, and the founding of FIFA and continental bodies."
+      },
+      {
+        "era": "1946–1979 (The Jules Rimet Era & Tactical Birth)",
+        "description": "The post-war resurgence, Brazil's golden age led by Pelé, and tactical shifts like catenaccio and Total Football."
+      },
+      {
+        "era": "1980–2005 (Commercial Boom & Superstar Icons)",
+        "description": "The Bosman ruling transforming player movement, massive television deals, and iconic legends like Maradona, Zidane, and Ronaldo."
+      },
+      {
+        "era": "2006–Present (Analytics, Global Super-Clubs & 2026 Era)",
+        "description": "The Messi-Ronaldo rivalry era, high-tech VAR officiating, data-driven club management, and expanding global tournament structures."
+      }
+    ]
+  },
+  "major_tournaments": [
+    {
+      "name": "FIFA World Cup",
+      "format": "Group Stage & 48-Team Knockout",
+      "frequency": "Every 4 Years",
+      "first_edition": 1930,
+      "current_holder": "Argentina",
+      "description": "The undisputed pinnacle of international sport, uniting the planet every four years in a global celebration of football."
+    },
+    {
+      "name": "UEFA Champions League",
+      "format": "League Phase & Knockout Stage",
+      "frequency": "Annual",
+      "first_edition": 1955,
+      "current_holder": "Real Madrid",
+      "description": "The most prestigious annual club competition in world football, featuring elite European powerhouses."
+    },
+    {
+      "name": "UEFA European Championship",
+      "format": "24-Team Group Stage & Knockout",
+      "frequency": "Every 4 Years",
+      "first_edition": 1960,
+      "current_holder": "Spain (2024)",
+      "description": "The premier continental championship contested by UEFA member associations."
+    },
+    {
+      "name": "CONMEBOL Copa América",
+      "format": "16-Team Group Stage & Knockout",
+      "frequency": "Every 4 Years",
+      "first_edition": 1916,
+      "current_holder": "Argentina (2024)",
+      "description": "The oldest still-running continental competition deciding the champion of South America."
+    }
+  ],
+  "top_50_players": [
+    {
+      "rank": 1,
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Forward / Playmaker",
+      "primary_stat_1": 850,
+      "primary_stat_2": 380,
+      "honors": "8x Ballon d'Or, 2022 FIFA World Cup Champion, 4x UEFA Champions League",
+      "goals": 850,
+      "assists": 380,
+      "pos": "Forward / Playmaker",
+      "trophies": "8x Ballon d'Or, 2022 FIFA World Cup Champion, 4x UEFA Champions League"
+    },
+    {
+      "rank": 2,
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "flag": "🇵🇹",
+      "role": "Forward / Winger",
+      "primary_stat_1": 910,
+      "primary_stat_2": 250,
+      "honors": "5x Ballon d'Or, UEFA Euro 2016 Champion, All-time leading professional goalscorer",
+      "goals": 910,
+      "assists": 250,
+      "pos": "Forward / Winger",
+      "trophies": "5x Ballon d'Or, UEFA Euro 2016 Champion, All-time leading professional goalscorer"
+    },
+    {
+      "rank": 3,
+      "name": "Pelé",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Forward",
+      "primary_stat_1": 757,
+      "primary_stat_2": 320,
+      "honors": "Only 3-time FIFA World Cup Winner (1958, 1962, 1970)",
+      "goals": 757,
+      "assists": 320,
+      "pos": "Forward",
+      "trophies": "Only 3-time FIFA World Cup Winner (1958, 1962, 1970)"
+    },
+    {
+      "rank": 4,
+      "name": "Diego Maradona",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 345,
+      "primary_stat_2": 210,
+      "honors": "1986 FIFA World Cup Winner, iconic individual campaign in Mexico",
+      "goals": 345,
+      "assists": 210,
+      "pos": "Attacking Midfielder",
+      "trophies": "1986 FIFA World Cup Winner, iconic individual campaign in Mexico"
+    },
+    {
+      "rank": 5,
+      "name": "Zinedine Zidane",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 156,
+      "primary_stat_2": 140,
+      "honors": "1998 World Cup Winner, Euro 2000 Winner, 3x FIFA World Player of the Year",
+      "goals": 156,
+      "assists": 140,
+      "pos": "Attacking Midfielder",
+      "trophies": "1998 World Cup Winner, Euro 2000 Winner, 3x FIFA World Player of the Year"
+    },
+    {
+      "rank": 6,
+      "name": "Johan Cruyff",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "role": "Forward / Playmaker",
+      "primary_stat_1": 402,
+      "primary_stat_2": 250,
+      "honors": "3x Ballon d'Or, 3x European Cup winner, pioneer of Total Football",
+      "goals": 402,
+      "assists": 250,
+      "pos": "Forward / Playmaker",
+      "trophies": "3x Ballon d'Or, 3x European Cup winner, pioneer of Total Football"
+    },
+    {
+      "rank": 7,
+      "name": "Ronaldo Nazário",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Striker",
+      "primary_stat_1": 414,
+      "primary_stat_2": 100,
+      "honors": "2x World Cup Winner (1994, 2002), 3x FIFA World Player of the Year",
+      "goals": 414,
+      "assists": 100,
+      "pos": "Striker",
+      "trophies": "2x World Cup Winner (1994, 2002), 3x FIFA World Player of the Year"
+    },
+    {
+      "rank": 8,
+      "name": "Michel Platini",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 353,
+      "primary_stat_2": 180,
+      "honors": "3x consecutive Ballon d'Or winner (1983-1985), Euro 1984 champion",
+      "goals": 353,
+      "assists": 180,
+      "pos": "Attacking Midfielder",
+      "trophies": "3x consecutive Ballon d'Or winner (1983-1985), Euro 1984 champion"
+    },
+    {
+      "rank": 9,
+      "name": "Ronaldinho",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Attacking Midfielder / Winger",
+      "primary_stat_1": 266,
+      "primary_stat_2": 170,
+      "honors": "2002 World Cup Winner, 2005 Ballon d'Or, UEFA Champions League winner",
+      "goals": 266,
+      "assists": 170,
+      "pos": "Attacking Midfielder / Winger",
+      "trophies": "2002 World Cup Winner, 2005 Ballon d'Or, UEFA Champions League winner"
+    },
+    {
+      "rank": 10,
+      "name": "Andrés Iniesta",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Midfielder",
+      "primary_stat_1": 95,
+      "primary_stat_2": 160,
+      "honors": "2010 World Cup Final Goalscorer, 2x Euro Champion, 4x Champions League",
+      "goals": 95,
+      "assists": 160,
+      "pos": "Midfielder",
+      "trophies": "2010 World Cup Final Goalscorer, 2x Euro Champion, 4x Champions League"
+    },
+    {
+      "rank": 11,
+      "name": "Xavi Hernández",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Central Midfielder",
+      "primary_stat_1": 85,
+      "primary_stat_2": 220,
+      "honors": "2010 World Cup Winner, 2x Euro Champion, Tiki-Taka midfield maestro",
+      "goals": 85,
+      "assists": 220,
+      "pos": "Central Midfielder",
+      "trophies": "2010 World Cup Winner, 2x Euro Champion, Tiki-Taka midfield maestro"
+    },
+    {
+      "rank": 12,
+      "name": "Thierry Henry",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Striker",
+      "primary_stat_1": 360,
+      "primary_stat_2": 175,
+      "honors": "1998 World Cup Winner, Euro 2000 Winner, Arsenal Invincibles legend",
+      "goals": 360,
+      "assists": 175,
+      "pos": "Striker",
+      "trophies": "1998 World Cup Winner, Euro 2000 Winner, Arsenal Invincibles legend"
+    },
+    {
+      "rank": 13,
+      "name": "Paolo Maldini",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "role": "Defender",
+      "primary_stat_1": 40,
+      "primary_stat_2": 900,
+      "honors": "5x European Cup/Champions League winner, AC Milan one-club legend",
+      "goals": 40,
+      "assists": 900,
+      "pos": "Defender",
+      "trophies": "5x European Cup/Champions League winner, AC Milan one-club legend"
+    },
+    {
+      "rank": 14,
+      "name": "Franz Beckenbauer",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Sweeper / Defender",
+      "primary_stat_1": 111,
+      "primary_stat_2": 75,
+      "honors": "World Cup winner as player (1974) and manager (1990), 2x Ballon d'Or",
+      "goals": 111,
+      "assists": 75,
+      "pos": "Sweeper / Defender",
+      "trophies": "World Cup winner as player (1974) and manager (1990), 2x Ballon d'Or"
+    },
+    {
+      "rank": 15,
+      "name": "Sergio Ramos",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Center-Back",
+      "primary_stat_1": 130,
+      "primary_stat_2": 50,
+      "honors": "2010 World Cup Winner, 2x Euro Winner, 4x UEFA Champions League",
+      "goals": 130,
+      "assists": 50,
+      "pos": "Center-Back",
+      "trophies": "2010 World Cup Winner, 2x Euro Winner, 4x UEFA Champions League"
+    },
+    {
+      "rank": 16,
+      "name": "Luka Modrić",
+      "country": "Croatia",
+      "flag": "🇭🇷",
+      "role": "Midfielder",
+      "primary_stat_1": 115,
+      "primary_stat_2": 150,
+      "honors": "2018 Ballon d'Or winner, 6x UEFA Champions League winner",
+      "goals": 115,
+      "assists": 150,
+      "pos": "Midfielder",
+      "trophies": "2018 Ballon d'Or winner, 6x UEFA Champions League winner"
+    },
+    {
+      "rank": 17,
+      "name": "Kevin De Bruyne",
+      "country": "Belgium",
+      "flag": "🇧🇪",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 150,
+      "primary_stat_2": 260,
+      "honors": "Multiple Premier League Playmaker of the Season awards, Champions League winner",
+      "goals": 150,
+      "assists": 260,
+      "pos": "Attacking Midfielder",
+      "trophies": "Multiple Premier League Playmaker of the Season awards, Champions League winner"
+    },
+    {
+      "rank": 18,
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Forward",
+      "primary_stat_1": 320,
+      "primary_stat_2": 130,
+      "honors": "2018 World Cup Winner, World Cup Golden Boot winner, global superstar",
+      "goals": 320,
+      "assists": 130,
+      "pos": "Forward",
+      "trophies": "2018 World Cup Winner, World Cup Golden Boot winner, global superstar"
+    },
+    {
+      "rank": 19,
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "flag": "🇳🇴",
+      "role": "Striker",
+      "primary_stat_1": 260,
+      "primary_stat_2": 50,
+      "honors": "European Golden Shoe winner, record-breaking Premier League goal machine",
+      "goals": 260,
+      "assists": 50,
+      "pos": "Striker",
+      "trophies": "European Golden Shoe winner, record-breaking Premier League goal machine"
+    },
+    {
+      "rank": 20,
+      "name": "Robert Lewandowski",
+      "country": "Poland",
+      "flag": "🇵🇱",
+      "role": "Striker",
+      "primary_stat_1": 630,
+      "primary_stat_2": 140,
+      "honors": "FIFA The Best Award winner, European Golden Shoe, 5-goals-in-9-minutes record",
+      "goals": 630,
+      "assists": 140,
+      "pos": "Striker",
+      "trophies": "FIFA The Best Award winner, European Golden Shoe, 5-goals-in-9-minutes record"
+    },
+    {
+      "rank": 21,
+      "name": "Neymar Jr.",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Winger / Forward",
+      "primary_stat_1": 310,
+      "primary_stat_2": 200,
+      "honors": "Brazil's joint all-time top goalscorer, Copa América winner, Champions League winner",
+      "goals": 310,
+      "assists": 200,
+      "pos": "Winger / Forward",
+      "trophies": "Brazil's joint all-time top goalscorer, Copa América winner, Champions League winner"
+    },
+    {
+      "rank": 22,
+      "name": "Virgil van Dijk",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "role": "Center-Back",
+      "primary_stat_1": 65,
+      "primary_stat_2": 30,
+      "honors": "UEFA Men's Player of the Year, Premier League & Champions League winner",
+      "goals": 65,
+      "assists": 30,
+      "pos": "Center-Back",
+      "trophies": "UEFA Men's Player of the Year, Premier League & Champions League winner"
+    },
+    {
+      "rank": 23,
+      "name": "Mohamed Salah",
+      "country": "Egypt",
+      "flag": "🇪🇬",
+      "role": "Winger",
+      "primary_stat_1": 310,
+      "primary_stat_2": 140,
+      "honors": "Multiple Premier League Golden Boots, Champions League winner, African Player of the Year",
+      "goals": 310,
+      "assists": 140,
+      "pos": "Winger",
+      "trophies": "Multiple Premier League Golden Boots, Champions League winner, African Player of the Year"
+    },
+    {
+      "rank": 24,
+      "name": "Manuel Neuer",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Goalkeeper",
+      "primary_stat_1": 0,
+      "primary_stat_2": 350,
+      "honors": "2014 World Cup Winner, 2x Champions League winner, pioneer of the sweeper-keeper",
+      "goals": 0,
+      "assists": 350,
+      "pos": "Goalkeeper",
+      "trophies": "2014 World Cup Winner, 2x Champions League winner, pioneer of the sweeper-keeper"
+    },
+    {
+      "rank": 25,
+      "name": "Gianluigi Buffon",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "role": "Goalkeeper",
+      "primary_stat_1": 0,
+      "primary_stat_2": 500,
+      "honors": "2006 World Cup Winner, Serie A record clean sheets, legendary longevity",
+      "goals": 0,
+      "assists": 500,
+      "pos": "Goalkeeper",
+      "trophies": "2006 World Cup Winner, Serie A record clean sheets, legendary longevity"
+    },
+    {
+      "rank": 26,
+      "name": "Sergio Busquets",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Defensive Midfielder",
+      "primary_stat_1": 20,
+      "primary_stat_2": 95,
+      "honors": "2010 World Cup Winner, 2012 Euro Winner, 3x Champions League winner",
+      "goals": 20,
+      "assists": 95,
+      "pos": "Defensive Midfielder",
+      "trophies": "2010 World Cup Winner, 2012 Euro Winner, 3x Champions League winner"
+    },
+    {
+      "rank": 27,
+      "name": "Toni Kroos",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Midfielder",
+      "primary_stat_1": 85,
+      "primary_stat_2": 170,
+      "honors": "2014 World Cup Winner, 6x UEFA Champions League winner, unmatched passing accuracy",
+      "goals": 85,
+      "assists": 170,
+      "pos": "Midfielder",
+      "trophies": "2014 World Cup Winner, 6x UEFA Champions League winner, unmatched passing accuracy"
+    },
+    {
+      "rank": 28,
+      "name": "Karim Benzema",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Striker",
+      "primary_stat_1": 470,
+      "primary_stat_2": 190,
+      "honors": "2022 Ballon d'Or winner, 5x UEFA Champions League winner",
+      "goals": 470,
+      "assists": 190,
+      "pos": "Striker",
+      "trophies": "2022 Ballon d'Or winner, 5x UEFA Champions League winner"
+    },
+    {
+      "rank": 29,
+      "name": "Harry Kane",
+      "country": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "role": "Striker",
+      "primary_stat_1": 380,
+      "primary_stat_2": 110,
+      "honors": "England men's all-time record goalscorer, World Cup Golden Boot winner",
+      "goals": 380,
+      "assists": 110,
+      "pos": "Striker",
+      "trophies": "England men's all-time record goalscorer, World Cup Golden Boot winner"
+    },
+    {
+      "rank": 30,
+      "name": "Sadio Mané",
+      "country": "Senegal",
+      "flag": "🇸🇳",
+      "role": "Winger",
+      "primary_stat_1": 240,
+      "primary_stat_2": 110,
+      "honors": "AFCON Champion, Champions League winner, multiple African Player of the Year",
+      "goals": 240,
+      "assists": 110,
+      "pos": "Winger",
+      "trophies": "AFCON Champion, Champions League winner, multiple African Player of the Year"
+    },
+    {
+      "rank": 31,
+      "name": "Vinicius Junior",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Winger",
+      "primary_stat_1": 130,
+      "primary_stat_2": 90,
+      "honors": "Multiple Champions League Final goalscorer, elite modern winger",
+      "goals": 130,
+      "assists": 90,
+      "pos": "Winger",
+      "trophies": "Multiple Champions League Final goalscorer, elite modern winger"
+    },
+    {
+      "rank": 32,
+      "name": "Jude Bellingham",
+      "country": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "role": "Midfielder",
+      "primary_stat_1": 70,
+      "primary_stat_2": 45,
+      "honors": "La Liga Player of the Season, Champions League winner, global young icon",
+      "goals": 70,
+      "assists": 45,
+      "pos": "Midfielder",
+      "trophies": "La Liga Player of the Season, Champions League winner, global young icon"
+    },
+    {
+      "rank": 33,
+      "name": "Rodri",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Defensive Midfielder",
+      "primary_stat_1": 45,
+      "primary_stat_2": 60,
+      "honors": "Ballon d'Or winner, Euro 2024 Champion & Player of the Tournament, Champions League winner",
+      "goals": 45,
+      "assists": 60,
+      "pos": "Defensive Midfielder",
+      "trophies": "Ballon d'Or winner, Euro 2024 Champion & Player of the Tournament, Champions League winner"
+    },
+    {
+      "rank": 34,
+      "name": "Antoine Griezmann",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Forward / Playmaker",
+      "primary_stat_1": 250,
+      "primary_stat_2": 120,
+      "honors": "2018 World Cup Winner, Euro 2016 Player of the Tournament & Top Scorer",
+      "goals": 250,
+      "assists": 120,
+      "pos": "Forward / Playmaker",
+      "trophies": "2018 World Cup Winner, Euro 2016 Player of the Tournament & Top Scorer"
+    },
+    {
+      "rank": 35,
+      "name": "N'Golo Kanté",
+      "country": "France",
+      "flag": "🇫🇷",
+      "role": "Defensive Midfielder",
+      "primary_stat_1": 25,
+      "primary_stat_2": 50,
+      "honors": "2018 World Cup Winner, Premier League champion with Leicester & Chelsea, Champions League winner",
+      "goals": 25,
+      "assists": 50,
+      "pos": "Defensive Midfielder",
+      "trophies": "2018 World Cup Winner, Premier League champion with Leicester & Chelsea, Champions League winner"
+    },
+    {
+      "rank": 36,
+      "name": "Cafu",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Right-Back",
+      "primary_stat_1": 30,
+      "primary_stat_2": 90,
+      "honors": "2-time World Cup Winner (1994, 2002), legendary attacking fullback",
+      "goals": 30,
+      "assists": 90,
+      "pos": "Right-Back",
+      "trophies": "2-time World Cup Winner (1994, 2002), legendary attacking fullback"
+    },
+    {
+      "rank": 37,
+      "name": "Roberto Carlos",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Left-Back",
+      "primary_stat_1": 110,
+      "primary_stat_2": 115,
+      "honors": "2002 World Cup Winner, 3x Champions League winner, famous for thunderbolt free-kicks",
+      "goals": 110,
+      "assists": 115,
+      "pos": "Left-Back",
+      "trophies": "2002 World Cup Winner, 3x Champions League winner, famous for thunderbolt free-kicks"
+    },
+    {
+      "rank": 38,
+      "name": "Philipp Lahm",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Fullback / Midfielder",
+      "primary_stat_1": 22,
+      "primary_stat_2": 110,
+      "honors": "2014 World Cup Winning Captain, Champions League winner, tactical exemplar",
+      "goals": 22,
+      "assists": 110,
+      "pos": "Fullback / Midfielder",
+      "trophies": "2014 World Cup Winning Captain, Champions League winner, tactical exemplar"
+    },
+    {
+      "rank": 39,
+      "name": "Fabio Cannavaro",
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "role": "Center-Back",
+      "primary_stat_1": 18,
+      "primary_stat_2": 30,
+      "honors": "2006 World Cup Winner & Captain, 2006 Ballon d'Or winner",
+      "goals": 18,
+      "assists": 30,
+      "pos": "Center-Back",
+      "trophies": "2006 World Cup Winner & Captain, 2006 Ballon d'Or winner"
+    },
+    {
+      "rank": 40,
+      "name": "Iker Casillas",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "role": "Goalkeeper",
+      "primary_stat_1": 0,
+      "primary_stat_2": 335,
+      "honors": "2010 World Cup Winning Captain, 2x Euro Winner, 3x Champions League winner",
+      "goals": 0,
+      "assists": 335,
+      "pos": "Goalkeeper",
+      "trophies": "2010 World Cup Winning Captain, 2x Euro Winner, 3x Champions League winner"
+    },
+    {
+      "rank": 41,
+      "name": "Peter Schmeichel",
+      "country": "Denmark",
+      "flag": "🇩🇰",
+      "role": "Goalkeeper",
+      "primary_stat_1": 10,
+      "primary_stat_2": 300,
+      "honors": "Euro 1992 Champion, 1999 Treble Winner with Manchester United",
+      "goals": 10,
+      "assists": 300,
+      "pos": "Goalkeeper",
+      "trophies": "Euro 1992 Champion, 1999 Treble Winner with Manchester United"
+    },
+    {
+      "rank": 42,
+      "name": "Marco van Basten",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "role": "Striker",
+      "primary_stat_1": 277,
+      "primary_stat_2": 70,
+      "honors": "3x Ballon d'Or winner, Euro 1988 Champion, legendary volley goalscorer",
+      "goals": 277,
+      "assists": 70,
+      "pos": "Striker",
+      "trophies": "3x Ballon d'Or winner, Euro 1988 Champion, legendary volley goalscorer"
+    },
+    {
+      "rank": 43,
+      "name": "Gerd Müller",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "role": "Striker",
+      "primary_stat_1": 566,
+      "primary_stat_2": 100,
+      "honors": "1974 World Cup Winner, European Championship Winner, legendary penalty-box predator",
+      "goals": 566,
+      "assists": 100,
+      "pos": "Striker",
+      "trophies": "1974 World Cup Winner, European Championship Winner, legendary penalty-box predator"
+    },
+    {
+      "rank": 44,
+      "name": "Bobby Charlton",
+      "country": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 249,
+      "primary_stat_2": 110,
+      "honors": "1966 World Cup Winner, 1966 Ballon d'Or winner, European Cup winner",
+      "goals": 249,
+      "assists": 110,
+      "pos": "Attacking Midfielder",
+      "trophies": "1966 World Cup Winner, 1966 Ballon d'Or winner, European Cup winner"
+    },
+    {
+      "rank": 45,
+      "name": "Kaká",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Attacking Midfielder",
+      "primary_stat_1": 208,
+      "primary_stat_2": 140,
+      "honors": "2002 World Cup Winner, 2007 Ballon d'Or winner, Champions League winner",
+      "goals": 208,
+      "assists": 140,
+      "pos": "Attacking Midfielder",
+      "trophies": "2002 World Cup Winner, 2007 Ballon d'Or winner, Champions League winner"
+    },
+    {
+      "rank": 46,
+      "name": "Paulo Dybala",
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "role": "Forward / Attacking Midfielder",
+      "primary_stat_1": 150,
+      "primary_stat_2": 75,
+      "honors": "2022 FIFA World Cup Champion, multiple Serie A titles",
+      "goals": 150,
+      "assists": 75,
+      "pos": "Forward / Attacking Midfielder",
+      "trophies": "2022 FIFA World Cup Champion, multiple Serie A titles"
+    },
+    {
+      "rank": 47,
+      "name": "Son Heung-min",
+      "country": "South Korea",
+      "flag": "🇰🇷",
+      "role": "Winger / Forward",
+      "primary_stat_1": 200,
+      "primary_stat_2": 100,
+      "honors": "Premier League Golden Boot winner, Asian Footballer of the Year record holder",
+      "goals": 200,
+      "assists": 100,
+      "pos": "Winger / Forward",
+      "trophies": "Premier League Golden Boot winner, Asian Footballer of the Year record holder"
+    },
+    {
+      "rank": 48,
+      "name": "Bernardo Silva",
+      "country": "Portugal",
+      "flag": "🇵🇹",
+      "role": "Midfielder / Winger",
+      "primary_stat_1": 95,
+      "primary_stat_2": 110,
+      "honors": "UEFA Nations League winner, multi-time Premier League & Champions League champion",
+      "goals": 95,
+      "assists": 110,
+      "pos": "Midfielder / Winger",
+      "trophies": "UEFA Nations League winner, multi-time Premier League & Champions League champion"
+    },
+    {
+      "rank": 49,
+      "name": "Thibaut Courtois",
+      "country": "Belgium",
+      "flag": "🇧🇪",
+      "role": "Goalkeeper",
+      "primary_stat_1": 0,
+      "primary_stat_2": 240,
+      "honors": "Multiple Champions League titles, Yashin Trophy winner, elite shot-stopper",
+      "goals": 0,
+      "assists": 240,
+      "pos": "Goalkeeper",
+      "trophies": "Multiple Champions League titles, Yashin Trophy winner, elite shot-stopper"
+    },
+    {
+      "rank": 50,
+      "name": "Alisson Becker",
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "role": "Goalkeeper",
+      "primary_stat_1": 0,
+      "primary_stat_2": 220,
+      "honors": "Champions League winner, Copa América champion, Premier League Golden Glove",
+      "goals": 0,
+      "assists": 220,
+      "pos": "Goalkeeper",
+      "trophies": "Champions League winner, Copa América champion, Premier League Golden Glove"
+    }
+  ],
+  "matches_2026": [
+    {
+      "id": "match-football-1",
+      "title": "UEFA Champions League 2026/27 League Phase",
+      "date": "14 Nov 2026",
+      "venue": "Santiago Bernabéu, Madrid",
+      "status": "LIVE",
+      "team1": {
+        "name": "Real Madrid",
+        "flag": "🇪🇸",
+        "score": "2"
+      },
+      "team2": {
+        "name": "Bayern Munich",
+        "flag": "🇩🇪",
+        "score": "1"
+      },
+      "note": "78' Second Half | Real Madrid leading following a stunning counter-attack goal.",
+      "key_performers": "Jude Bellingham (1 goal, 1 assist) & Harry Kane (1 goal)"
+    },
+    {
+      "id": "match-football-2",
+      "title": "Premier League 2026/27 Matchday 13",
+      "date": "19 Nov 2026",
+      "venue": "Anfield, Liverpool",
+      "status": "SCHEDULED",
+      "team1": {
+        "name": "Liverpool",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "score": "Upcoming"
+      },
+      "team2": {
+        "name": "Manchester City",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "score": "Upcoming"
+      },
+      "note": "Title-shaping fixture between two English heavyweights.",
+      "key_performers": "Mohamed Salah, Kevin De Bruyne, and Erling Haaland"
+    },
+    {
+      "id": "match-football-3",
+      "title": "La Liga 2026/27 Fixture",
+      "date": "06 Nov 2026",
+      "venue": "Estadi Olímpic Lluís Companys, Barcelona",
+      "status": "COMPLETED",
+      "team1": {
+        "name": "Barcelona",
+        "flag": "🇪🇸",
+        "score": "3"
+      },
+      "team2": {
+        "name": "Atletico Madrid",
+        "flag": "🇪🇸",
+        "score": "1"
+      },
+      "note": "Full Time: Barcelona secure a comfortable 3-1 home victory.",
+      "key_performers": "Lamine Yamal (2 assists, Man of the Match)"
+    }
+  ],
+  "team_fixtures": {
+    "Real Madrid": {
+      "upcoming": [
+        {
+          "opp": "vs Valencia",
+          "date": "21 Nov 2026",
+          "venue": "Mestalla, Valencia",
+          "comp": "La Liga"
+        },
+        {
+          "opp": "vs AC Milan",
+          "date": "26 Nov 2026",
+          "venue": "San Siro, Milan",
+          "comp": "UEFA Champions League"
+        },
+        {
+          "opp": "vs Athletic Bilbao",
+          "date": "30 Nov 2026",
+          "venue": "Santiago Bernabéu, Madrid",
+          "comp": "La Liga"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Barcelona",
+          "date": "08 Nov 2026",
+          "res": "WON",
+          "score": "2-1",
+          "hero": "Jude Bellingham"
+        },
+        {
+          "opp": "vs Villarreal",
+          "date": "01 Nov 2026",
+          "res": "WON",
+          "score": "3-0",
+          "hero": "Vinicius Junior"
+        },
+        {
+          "opp": "vs Borussia Dortmund",
+          "date": "22 Oct 2026",
+          "res": "WON",
+          "score": "4-2",
+          "hero": "Kylian Mbappé"
+        },
+        {
+          "opp": "vs Celta Vigo",
+          "date": "18 Oct 2026",
+          "res": "WON",
+          "score": "2-0",
+          "hero": "Thibaut Courtois"
+        },
+        {
+          "opp": "vs Sevilla",
+          "date": "05 Oct 2026",
+          "res": "DRAW",
+          "score": "1-1",
+          "hero": "Luka Modrić"
+        }
+      ]
+    },
+    "real_madrid": {
+      "upcoming": [
+        {
+          "opp": "vs Valencia",
+          "date": "21 Nov 2026",
+          "venue": "Mestalla, Valencia",
+          "comp": "La Liga"
+        },
+        {
+          "opp": "vs AC Milan",
+          "date": "26 Nov 2026",
+          "venue": "San Siro, Milan",
+          "comp": "UEFA Champions League"
+        },
+        {
+          "opp": "vs Athletic Bilbao",
+          "date": "30 Nov 2026",
+          "venue": "Santiago Bernabéu, Madrid",
+          "comp": "La Liga"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Barcelona",
+          "date": "08 Nov 2026",
+          "res": "WON",
+          "score": "2-1",
+          "hero": "Jude Bellingham"
+        },
+        {
+          "opp": "vs Villarreal",
+          "date": "01 Nov 2026",
+          "res": "WON",
+          "score": "3-0",
+          "hero": "Vinicius Junior"
+        },
+        {
+          "opp": "vs Borussia Dortmund",
+          "date": "22 Oct 2026",
+          "res": "WON",
+          "score": "4-2",
+          "hero": "Kylian Mbappé"
+        },
+        {
+          "opp": "vs Celta Vigo",
+          "date": "18 Oct 2026",
+          "res": "WON",
+          "score": "2-0",
+          "hero": "Thibaut Courtois"
+        },
+        {
+          "opp": "vs Sevilla",
+          "date": "05 Oct 2026",
+          "res": "DRAW",
+          "score": "1-1",
+          "hero": "Luka Modrić"
+        }
+      ]
+    },
+    "spain": {
+      "upcoming": [
+        {
+          "opp": "vs England",
+          "date": "25 Mar 2027",
+          "venue": "Wembley Stadium, London",
+          "comp": "International Friendly"
+        },
+        {
+          "opp": "vs France",
+          "date": "29 Mar 2027",
+          "venue": "Santiago Bernabeu, Madrid",
+          "comp": "International Friendly"
+        },
+        {
+          "opp": "vs Portugal",
+          "date": "05 Jun 2027",
+          "venue": "Estadio da Luz, Lisbon",
+          "comp": "UEFA Nations League"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Argentina",
+          "date": "19 Jul 2026",
+          "res": "WON",
+          "score": "2-1",
+          "hero": "Lamine Yamal"
+        },
+        {
+          "opp": "vs France",
+          "date": "15 Jul 2026",
+          "res": "WON",
+          "score": "2-0",
+          "hero": "Rodri"
+        },
+        {
+          "opp": "vs Germany",
+          "date": "10 Jul 2026",
+          "res": "WON",
+          "score": "3-1",
+          "hero": "Dani Olmo"
+        },
+        {
+          "opp": "vs Netherlands",
+          "date": "05 Jul 2026",
+          "res": "WON",
+          "score": "1-0",
+          "hero": "Pedri"
+        },
+        {
+          "opp": "vs Morocco",
+          "date": "30 Jun 2026",
+          "res": "WON",
+          "score": "2-0",
+          "hero": "Nico Williams"
+        }
+      ]
+    },
+    "argentina": {
+      "upcoming": [
+        {
+          "opp": "vs Brazil",
+          "date": "19 Nov 2026",
+          "venue": "Maracanã, Rio de Janeiro",
+          "comp": "FIFA World Cup Qualifiers"
+        },
+        {
+          "opp": "vs Uruguay",
+          "date": "24 Nov 2026",
+          "venue": "Estadio Monumental, Buenos Aires",
+          "comp": "FIFA World Cup Qualifiers"
+        },
+        {
+          "opp": "vs Colombia",
+          "date": "22 Mar 2027",
+          "venue": "Miami, USA",
+          "comp": "International Friendly"
+        }
+      ],
+      "recent": [
+        {
+          "opp": "vs Spain (WC 2026 Final)",
+          "date": "19 Jul 2026",
+          "res": "LOST",
+          "score": "1 - 2",
+          "hero": "Lionel Messi 44'"
+        },
+        {
+          "opp": "vs Colombia (Copa América Final)",
+          "date": "14 Jul 2024",
+          "res": "WON",
+          "score": "1 - 0 (AET)",
+          "hero": "Lautaro Martínez 112'"
+        },
+        {
+          "opp": "vs Canada (Copa América Semi)",
+          "date": "09 Jul 2024",
+          "res": "WON",
+          "score": "2 - 0",
+          "hero": "Lionel Messi 51', Julian Alvarez 22'"
+        },
+        {
+          "opp": "vs Ecuador (Copa América QF)",
+          "date": "04 Jul 2024",
+          "res": "WON",
+          "score": "1 - 1 (4-2 pens)",
+          "hero": "Emi Martínez (2 shootout saves)"
+        },
+        {
+          "opp": "vs Peru (Copa Group A)",
+          "date": "29 Jun 2024",
+          "res": "WON",
+          "score": "2 - 0",
+          "hero": "Lautaro Martínez (2 goals)"
+        }
+      ]
+    }
+  }
+}

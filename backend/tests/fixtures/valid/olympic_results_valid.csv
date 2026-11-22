@@ -1,0 +1,4 @@
+edition_label,discipline,event_name,participant,country_iso3,rank,medal,result_value,result_unit,is_world_record,is_olympic_record,source_url,retrieved_on
+Tokyo 2020,athletics,Men's 100m,Marcell Jacobs,ITA,1,gold,9.80,seconds,false,false,https://olympics.com/tokyo2020/athletics,2024-01-15T00:00:00Z
+Tokyo 2020,athletics,Men's 100m,Fred Kerley,USA,2,silver,9.84,seconds,false,false,https://olympics.com/tokyo2020/athletics,2024-01-15T00:00:00Z
+Tokyo 2020,swimming,Men's 100m Freestyle,Caeleb Dressel,USA,1,gold,47.02,seconds,false,true,https://olympics.com/tokyo2020/swimming,2024-01-15T00:00:00Z

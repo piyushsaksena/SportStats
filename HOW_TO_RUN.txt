@@ -1,0 +1,66 @@
+================================================================================
+   SPORTSTATS: AI-ENABLED MULTI-SPORT ANALYTICS & INTELLIGENCE PLATFORM
+================================================================================
+
+Welcome to SportStats! You can run this platform on ANY computer in less than 
+5 seconds using either of the two methods below:
+
+--------------------------------------------------------------------------------
+METHOD 1: INSTANT 1-CLICK BROWSER MODE (RECOMMENDED FOR FRIENDS - ZERO SETUP!)
+--------------------------------------------------------------------------------
+No Python, no installation, and no technical setup required!
+
+1. Simply double-click "index.html" in this folder.
+   (Or double-click "run_dashboard.bat" and press [1])
+2. It will open immediately in your default browser (Chrome, Edge, Firefox, Brave).
+3. Everything works out-of-the-box:
+   - Live Match Centre (2026 fixtures & scores)
+   - Statistical Comparison Studio with Dynamic SVG Radar Charts
+   - Cricket Department with 30-Match Chronologies (2024–2026) & Scorecards
+   - ICC Rankings Hub (Men's & Women's across Test, ODI, and T20I)
+   - My Teams Multi-Select Studio (with persistent saved favourites)
+   - 205 Cataloged Athletes across Football, Basketball, Tennis, & Cricket
+   - AI Sports Analyst with grounded contextual queries
+
+--------------------------------------------------------------------------------
+METHOD 2: FULL-STACK FASTAPI BACKEND MODE (FOR DEVELOPERS & EXAMINERS)
+--------------------------------------------------------------------------------
+If you want to run the asynchronous Python FastAPI REST backend:
+
+1. Double-click "run_dashboard.bat" and press [2].
+   OR in PowerShell / Terminal run:
+      pip install -r requirements.txt
+      python -m uvicorn sportstats.api.main:app --app-dir backend/src --host 127.0.0.1 --port 8000 --reload
+
+2. Open your browser and navigate to:
+   - Web Application:   http://localhost:8000/
+   - Interactive Swagger API Docs: http://localhost:8000/docs
+   - System Health Heartbeat:      http://localhost:8000/health
+
+--------------------------------------------------------------------------------
+ACADEMIC SUBMISSION & VIVA PREPARATION FILES INCLUDED:
+--------------------------------------------------------------------------------
+1. "SPORTSTATS_VIVA_AND_PROJECT_GUIDE.pdf"
+   - Complete project architecture manual
+   - Technology stack justifications (Why FastAPI, Why SVG, Why SPA)
+   - Mathematical derivations (Hexagonal SVG Radar, Min-Max Normalization, NRR, TS%)
+   - Top 25 Expected Examiner Viva Voce Questions with High-Scoring Model Answers
+   - 5 Tricky Examiner Trap Questions & Defense Tactics
+   - Exam-Day Live Demonstration Checklist
+
+2. "SPORTSTATS_PROJECT_REPORT.docx"
+   - Comprehensive multi-sport academic project report in Microsoft Word format
+   - 16 full-page chapters with authentic website screenshots
+
+3. "SPORTSTATS_PROJECT_REPORT.md"
+   - Complete Markdown source of the project report (8,200+ words)
+
+--------------------------------------------------------------------------------
+TEST SUITE & QUALITY VERIFICATION:
+--------------------------------------------------------------------------------
+To verify that all 68 tests pass:
+   pytest backend/tests/ -q
+   (Result: 68 passed in 100%)
+
+Enjoy exploring SportStats!
+================================================================================
