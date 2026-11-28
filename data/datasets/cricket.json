@@ -30,8 +30,24 @@
       "format": "Group Stage & Super 8/Knockout (T20I)",
       "frequency": "Biennial / Every 2 Years",
       "first_edition": 2007,
-      "current_holder": "India (2024)",
-      "description": "The marquee global tournament for the shortest international format, showcasing explosive power-hitting and global competitiveness."
+      "current_holder": "India (2026 Champions)",
+      "description": "The premier global 20-over world championship, won by India in 2026 to claim their third Men's T20 World Cup crown."
+    },
+    {
+      "name": "ICC World Test Championship",
+      "format": "Two-Year League Cycle & One-Off Final",
+      "frequency": "Every 2 Years",
+      "first_edition": 2019,
+      "current_holder": "South Africa (2025 Champions)",
+      "description": "The pinnacle championship for traditional multi-day Test cricket, won by South Africa in the 2025 Lord's final."
+    },
+    {
+      "name": "ICC Champions Trophy",
+      "format": "8-Team Elite ODI Tournament",
+      "frequency": "Every 4 Years",
+      "first_edition": 1998,
+      "current_holder": "India (2025 Champions)",
+      "description": "The prestigious 8-team elite 50-over championship, won by India in the 2025 tournament."
     },
     {
       "name": "ICC Men's Cricket World Cup",
@@ -40,14 +56,6 @@
       "first_edition": 1975,
       "current_holder": "Australia (2023)",
       "description": "The premier quadrennial championship of One Day International cricket, representing the ultimate prize in the 50-over format."
-    },
-    {
-      "name": "ICC World Test Championship",
-      "format": "Two-Year League Cycle & One-Off Final",
-      "frequency": "Every 2 Years",
-      "first_edition": 2019,
-      "current_holder": "Australia (2023)",
-      "description": "The premier championship for multi-day Test cricket, crowning the undisputed world Test champion at Lord's."
     },
     {
       "name": "ICC Women's T20 World Cup",
@@ -62,16 +70,8 @@
       "format": "ODI / T20I Format",
       "frequency": "Every 2 Years",
       "first_edition": 1984,
-      "current_holder": "India (2023)",
+      "current_holder": "India",
       "description": "The continental championship of Asia featuring the region's elite Full and Associate members."
-    },
-    {
-      "name": "ICC Champions Trophy",
-      "format": "8-Team Elite ODI Tournament",
-      "frequency": "Every 4 Years",
-      "first_edition": 1998,
-      "current_holder": "Pakistan",
-      "description": "The prestigious tournament featuring the top eight ranked ODI teams in the world."
     }
   ],
   "top_50_players": [

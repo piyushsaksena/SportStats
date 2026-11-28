@@ -1722,12 +1722,36 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
         <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
           <div class="flex justify-between items-start">
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Men's T20 World Cup</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Biennial</span>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">2026 Edition</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier global 20-over championship, crowning the undisputed world champions of the shortest format.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier global 20-over world championship, won by India in 2026 to claim their historic world title.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 2007</span>
-            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (2024 Champions)</span>
+            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (2026 Champions)</span>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+          <div class="flex justify-between items-start">
+            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC World Test Championship</h4>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">2023–25 Cycle</span>
+          </div>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The pinnacle championship for traditional multi-day Test cricket, won by South Africa in the 2025 Lord's final.</p>
+          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
+            <span>Inaugural: 2019</span>
+            <span class="font-bold text-emerald-700">Holder: South Africa 🇿🇦 (2025 Champions)</span>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+          <div class="flex justify-between items-start">
+            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Champions Trophy</h4>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">2025 Edition</span>
+          </div>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The prestigious 8-team elite 50-over championship, won by India in 2025 in an undefeated tournament campaign.</p>
+          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
+            <span>Inaugural: 1998</span>
+            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (2025 Champions)</span>
           </div>
         </div>
 
@@ -1736,7 +1760,7 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Men's Cricket World Cup</h4>
             <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 4 Years</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier quadrennial 50-over championship, representing the pinnacle trophy in international One Day cricket.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier quadrennial 50-over championship, representing the ultimate prize in One Day International cricket.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 1975</span>
             <span class="font-bold text-emerald-700">Holder: Australia 🇦🇺 (2023)</span>
@@ -1745,25 +1769,13 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
 
         <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
           <div class="flex justify-between items-start">
-            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC World Test Championship</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">2-Year Cycle</span>
-          </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The pinnacle championship for traditional multi-day Test cricket, culminating in the Lord's WTC Final.</p>
-          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
-            <span>Inaugural: 2019</span>
-            <span class="font-bold text-emerald-700">Holder: Australia 🇦🇺 (Next: June 2025)</span>
-          </div>
-        </div>
-
-        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
-          <div class="flex justify-between items-start">
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Women's T20 World Cup</h4>
             <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Biennial</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier women's twenty-over world tournament featuring the top ten ranked international sides.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier global 20-over world tournament featuring the top ten international women's sides.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 2009</span>
-            <span class="font-bold text-emerald-700">Holder: New Zealand 🇳🇿 (Oct 2024)</span>
+            <span class="font-bold text-emerald-700">Holder: New Zealand 🇳🇿 (2024 Champions)</span>
           </div>
         </div>
 
@@ -1772,22 +1784,10 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">Asia Cup (Men's)</h4>
             <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 2 Years</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The continental championship of Asia contested between the region's elite Full and Associate members.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The continental championship of Asia contested between the region's top Full and Associate members.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 1984</span>
-            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (8 Titles)</span>
-          </div>
-        </div>
-
-        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
-          <div class="flex justify-between items-start">
-            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Champions Trophy</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Quadrennial</span>
-          </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The prestigious 'Mini-World Cup' featuring the world's top 8 ranked ODI nations.</p>
-          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
-            <span>Inaugural: 1998</span>
-            <span class="font-bold text-emerald-700">Holder: Pakistan 🇵🇰 (Defender)</span>
+            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (Defending Champions)</span>
           </div>
         </div>
       </div>
