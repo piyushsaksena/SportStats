@@ -9313,7 +9313,8 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
         </tr>
       `).join('');
 
-      document.getElementById('tennis-player-profile-container').innerHTML = `
+      const tennisContainer = document.getElementById('tennis-player-profile-container') || document.getElementById('tennis-player-spotlight');
+      if (tennisContainer) tennisContainer.innerHTML = `
         <div class="flex flex-col sm:flex-row justify-between sm:items-center gap-4">
           <div>
             <div class="flex items-center gap-2.5">
@@ -9478,7 +9479,8 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
         </tr>
       `).join('');
 
-      document.getElementById('basketball-player-profile-container').innerHTML = `
+      const bballContainer = document.getElementById('basketball-player-profile-container') || document.getElementById('basketball-player-spotlight');
+      if (bballContainer) bballContainer.innerHTML = `
         <div class="flex flex-col sm:flex-row justify-between sm:items-center gap-4">
           <div>
             <div class="flex items-center gap-2.5">
@@ -10124,8 +10126,8 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
 
     // Sidebar Toggle
     function toggleSidebar() {
-      const sb = document.getElementById('sidebar');
-      sb.classList.toggle('hidden');
+      const sb = document.getElementById('sidebar') || document.getElementById('floating-sports-sidebar');
+      if (sb) sb.classList.toggle('hidden');
     }
 
     // Search Entities
@@ -10157,6 +10159,7 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
 
     function handleGlobalSearch(q) {
       const dropdown = document.getElementById('search-dropdown');
+      if (!dropdown) return;
       if (!q.trim()) {
         dropdown.classList.add('hidden');
         return;
@@ -10176,9 +10179,13 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
     }
 
     function selectSearchResult(idx) {
-      SEARCH_ENTITIES[idx].action();
-      document.getElementById('search-dropdown').classList.add('hidden');
-      document.getElementById('global-search-input').value = '';
+      if (SEARCH_ENTITIES[idx] && typeof SEARCH_ENTITIES[idx].action === 'function') {
+        SEARCH_ENTITIES[idx].action();
+      }
+      const dropdown = document.getElementById('search-dropdown');
+      if (dropdown) dropdown.classList.add('hidden');
+      const input = document.getElementById('global-search-input');
+      if (input) input.value = '';
     }
 
     // AI Analyst
