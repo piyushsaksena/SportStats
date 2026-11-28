@@ -524,9 +524,9 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
                   </svg>
                   <h3 class="font-black text-xs sm:text-sm text-[#1B2432] tracking-wider uppercase">MY TEAMS</h3>
                   <div class="text-[10px] sm:text-[11px] font-semibold text-[#5A6B82] leading-tight">
-                    <span>Recent:</span><br>
-                    <span class="text-[#1B2432] font-bold">Man Utd 3-0</span><br>
-                    <span class="text-[#1B2432]">India 240/10</span>
+                    <span>Recent 1st Test:</span><br>
+                    <span class="text-[#1B2432] font-bold">IND 720/9d vs NZ</span><br>
+                    <span class="text-[#1B2432]">Match Drawn</span>
                   </div>
                 </div>
                 <!-- Amber accent pill at bottom -->
@@ -545,9 +545,9 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
                   </svg>
                   <h3 class="font-black text-xs sm:text-sm text-[#1B2432] tracking-wider uppercase">UPCOMING</h3>
                   <div class="text-[10px] sm:text-[11px] font-semibold text-[#5A6B82] leading-tight">
-                    <span>F1 - Monaco GP</span><br>
-                    <span class="text-[#1B2432] font-bold">IND vs SA (ODI)</span><br>
-                    <span class="text-[#1B2432]">UCL Semifinals</span>
+                    <span>Next Test Match:</span><br>
+                    <span class="text-[#1B2432] font-bold">2nd Test: IND vs NZ</span><br>
+                    <span class="text-[#1B2432]">Hagley Oval • Christchurch</span>
                   </div>
                 </div>
                 <!-- Amber accent pill at bottom -->
@@ -565,9 +565,9 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
                   </svg>
                   <h3 class="font-black text-xs sm:text-sm text-[#1B2432] tracking-wider uppercase">TENNIS</h3>
                   <div class="text-[10px] sm:text-[11px] font-semibold text-[#5A6B82] leading-tight">
-                    <span>Nadal vs Djokovic</span><br>
-                    <span class="text-[#1B2432] font-bold">(Ongoing 6-4, 5-3)</span><br>
-                    <span class="text-[#1B2432]">Alcaraz vs Sinner</span>
+                    <span>ATP Finals Final:</span><br>
+                    <span class="text-[#1B2432] font-bold">Alcaraz 2-1 Sinner</span><br>
+                    <span class="text-[#1B2432]">6-4, 5-7, 7-6(5) (FT)</span>
                   </div>
                 </div>
                 <!-- Amber accent pill at bottom -->
@@ -1203,22 +1203,22 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
       </div>
 
       <!-- ============================================================== -->
-      <!-- DEDICATED VIEW: LIVE MATCHES & SCORES (Header link: LIVE SCORES)-->
+      <!-- DEDICATED VIEW: MATCHES & SCORES (Header link: LIVE SCORES)    -->
       <!-- ============================================================== -->
       <div id="view-matches" class="tab-content space-y-6 sm:space-y-8 animate-fadeIn">
-        <!-- Live Matches Header -->
+        <!-- Matches Header -->
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-[#DCE7F3] pb-4">
           <div>
             <div class="flex items-center gap-2.5">
-              <span class="w-3 h-3 rounded-full bg-red-500 animate-pulse"></span>
-              <h2 class="text-2xl sm:text-3xl font-black text-[#1B2432] uppercase tracking-tight">Live Match Centre</h2>
+              <span class="w-3 h-3 rounded-full bg-slate-400"></span>
+              <h2 class="text-2xl sm:text-3xl font-black text-[#1B2432] uppercase tracking-tight">Match Centre &amp; Recent Results</h2>
             </div>
-            <p class="text-xs text-[#5A6B82] mt-0.5">Real-time match sheets, quarter box scores, and official federation telemetry (2026 Season).</p>
+            <p class="text-xs text-[#5A6B82] mt-0.5">Audited federation scorecards, box scores, and recent match telemetry (2026 Season).</p>
           </div>
           <div class="flex items-center gap-2">
-            <span class="px-3 py-1 rounded-full bg-red-50 text-red-600 border border-red-200 text-xs font-bold font-mono flex items-center gap-1.5">
-              <span class="w-2 h-2 rounded-full bg-red-500 animate-ping"></span>
-              4 Matches In-Progress (2026)
+            <span class="px-3 py-1 rounded-full bg-slate-100 text-slate-700 border border-slate-300 text-xs font-bold font-mono flex items-center gap-1.5">
+              <span class="w-2 h-2 rounded-full bg-slate-400"></span>
+              No Matches Live Right Now • Recent Results (2026)
             </span>
           </div>
         </div>
@@ -1226,124 +1226,125 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
         <!-- Sport Switcher Filter Pills -->
         <div class="w-full overflow-x-auto no-scrollbar pb-1">
           <div class="flex items-center gap-2 min-w-max">
-            <button class="px-4 py-2 rounded-full bg-[#1B2432] text-white text-xs font-bold shadow-xs">All Live (4)</button>
+            <button class="px-4 py-2 rounded-full bg-[#1B2432] text-white text-xs font-bold shadow-xs">Recent Results (4)</button>
             <button onclick="navigateTo('cricket-scorecard')" class="px-4 py-2 rounded-full bg-[#F3F8FE] hover:bg-[#EAF4FF] text-[#1B2432] border border-[#DCE7F3] text-xs font-bold transition-all flex items-center gap-1.5">
-              <span>🏏</span> Cricket (1)
+              <span>🏏</span> Cricket
             </button>
             <button onclick="navigateTo('football-matches')" class="px-4 py-2 rounded-full bg-[#F3F8FE] hover:bg-[#EAF4FF] text-[#1B2432] border border-[#DCE7F3] text-xs font-bold transition-all flex items-center gap-1.5">
-              <span>⚽</span> Football (1)
+              <span>⚽</span> Football
             </button>
             <button onclick="navigateTo('basketball-matches')" class="px-4 py-2 rounded-full bg-[#F3F8FE] hover:bg-[#EAF4FF] text-[#1B2432] border border-[#DCE7F3] text-xs font-bold transition-all flex items-center gap-1.5">
-              <span>🏀</span> Basketball (1)
+              <span>🏀</span> Basketball
             </button>
             <button onclick="navigateTo('tennis-matches')" class="px-4 py-2 rounded-full bg-[#F3F8FE] hover:bg-[#EAF4FF] text-[#1B2432] border border-[#DCE7F3] text-xs font-bold transition-all flex items-center gap-1.5">
-              <span>🎾</span> Tennis (1)
+              <span>🎾</span> Tennis
             </button>
           </div>
         </div>
 
-        <!-- Live In-Progress Cards Grid (4 sports 2026 Live Fixtures) -->
+        <!-- Recent Results Cards Grid (4 sports 2026 Verified Fixtures) -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          <!-- 1. Cricket 2026 Marquee Match: India tour of New Zealand 5th T20I (Ingested Cricsheet Data) -->
+          <!-- 1. Cricket Recent Marquee Match: India tour of New Zealand 1st Test (19-23 Nov 2026) -->
           <div onclick="navigateTo('cricket-scorecard')" class="group bg-white p-5 rounded-2xl border-2 border-[#1B2432] hover:bg-[#EAF4FF]/40 shadow-xs hover:shadow-md transition-all space-y-3 cursor-pointer">
             <div class="flex justify-between items-center text-xs">
               <span class="font-bold text-[#1B2432] flex items-center gap-1.5">
-                <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-                🏏 Cricket • IND vs NZ 5th T20I
+                <span class="w-2 h-2 rounded-full bg-slate-400"></span>
+                🏏 Cricket • IND vs NZ 1st Test
               </span>
-              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-emerald-50 text-emerald-700 font-bold border border-emerald-200">Series Decider</span>
+              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-slate-100 text-slate-700 font-bold border border-slate-300">RECENT RESULT</span>
             </div>
             <div class="space-y-1.5 py-1">
               <div class="flex justify-between items-center text-sm font-semibold">
                 <span class="flex items-center gap-2"><span>🇮🇳</span> India</span>
-                <span class="font-mono text-xs font-bold text-[#1B2432]">191/8 <span class="text-[10px] text-[#5A6B82]">(20.0 ov)</span></span>
+                <span class="font-mono text-xs font-bold text-[#1B2432]">720/9 d <span class="text-[10px] text-[#5A6B82]">(166 ov)</span></span>
               </div>
               <div class="flex justify-between items-center text-sm font-black text-[#1B2432]">
                 <span class="flex items-center gap-2"><span>🇳🇿</span> New Zealand</span>
-                <span class="font-mono text-xs font-bold text-emerald-700">195/3 <span class="text-[10px] text-[#5A6B82]">(18.0 ov)</span></span>
+                <span class="font-mono text-xs font-bold text-slate-800">368 &amp; 239/5 <span class="text-[10px] text-[#5A6B82]">(120 ov)</span></span>
               </div>
             </div>
             <div class="text-[11px] font-mono text-[#5A6B82] border-t border-[#DCE7F3] pt-2 flex justify-between">
-              <span>Seddon Park, Hamilton</span>
-              <span class="text-emerald-700 font-bold">NZ won by 7 wkts</span>
+              <span>Basin Reserve, Wellington</span>
+              <span class="text-slate-800 font-bold">Match Drawn (5-Day Test)</span>
             </div>
           </div>
 
-          <!-- 2. Football 2026 Live -->
+          <!-- 2. Football Recent Result -->
           <div onclick="navigateTo('football-matches')" class="group bg-white p-5 rounded-2xl border-2 border-[#1B2432] hover:bg-[#EAF4FF]/40 shadow-xs hover:shadow-md transition-all space-y-3 cursor-pointer">
             <div class="flex justify-between items-center text-xs">
               <span class="font-bold text-[#1B2432] flex items-center gap-1.5">
-                <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-                ⚽ Football • UCL MD4
+                <span class="w-2 h-2 rounded-full bg-slate-400"></span>
+                ⚽ Football • UCL League Phase
               </span>
-              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-red-50 text-red-600 font-bold border border-red-200">74'</span>
+              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-slate-100 text-slate-700 font-bold border border-slate-300">RECENT RESULT</span>
             </div>
             <div class="space-y-1.5 py-1">
               <div class="flex justify-between items-center text-sm font-semibold">
                 <span class="flex items-center gap-2"><span>🇪🇸</span> Real Madrid</span>
-                <span class="font-mono text-base font-bold text-[#1B2432]">2</span>
+                <span class="font-mono text-base font-bold text-[#1B2432]">3</span>
               </div>
               <div class="flex justify-between items-center text-sm font-black text-[#1B2432]">
                 <span class="flex items-center gap-2"><span>🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> Man City</span>
-                <span class="font-mono text-base font-bold text-google-blue">2</span>
+                <span class="font-mono text-base font-bold text-[#1B2432]">2</span>
               </div>
             </div>
             <div class="text-[11px] font-mono text-[#5A6B82] border-t border-[#DCE7F3] pt-2 flex justify-between">
-              <span>Vini Jr 32', Jude 58'</span>
-              <span class="text-[#1B2432] font-bold">Poss: 51%</span>
+              <span>Santiago Bernabéu • FT</span>
+              <span class="text-emerald-700 font-bold">Real Madrid won 3-2</span>
             </div>
           </div>
 
-          <!-- 3. Basketball 2026 Live -->
+          <!-- 3. Basketball Recent Result -->
           <div onclick="navigateTo('basketball-matches')" class="group bg-white p-5 rounded-2xl border-2 border-[#1B2432] hover:bg-[#EAF4FF]/40 shadow-xs hover:shadow-md transition-all space-y-3 cursor-pointer">
             <div class="flex justify-between items-center text-xs">
               <span class="font-bold text-[#1B2432] flex items-center gap-1.5">
-                <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
+                <span class="w-2 h-2 rounded-full bg-slate-400"></span>
                 🏀 NBA • In-Season Cup
               </span>
-              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-red-50 text-red-600 font-bold border border-red-200">Q4 3:12</span>
+              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-slate-100 text-slate-700 font-bold border border-slate-300">RECENT RESULT</span>
             </div>
             <div class="space-y-1.5 py-1">
               <div class="flex justify-between items-center text-sm font-black text-[#1B2432]">
                 <span class="flex items-center gap-2"><span>☘️</span> Boston Celtics</span>
-                <span class="font-mono text-base font-bold text-google-blue">98</span>
+                <span class="font-mono text-base font-bold text-google-blue">112</span>
               </div>
               <div class="flex justify-between items-center text-sm font-semibold">
                 <span class="flex items-center gap-2"><span>🌉</span> Golden State</span>
-                <span class="font-mono text-base font-bold text-[#1B2432]">94</span>
+                <span class="font-mono text-base font-bold text-[#1B2432]">104</span>
               </div>
             </div>
             <div class="text-[11px] font-mono text-[#5A6B82] border-t border-[#DCE7F3] pt-2 flex justify-between">
-              <span>Tatum 31p • Curry 34p</span>
-              <span class="text-emerald-700 font-bold">BOS +4</span>
+              <span>TD Garden, Boston • Final</span>
+              <span class="text-emerald-700 font-bold">Celtics won by 8 pts</span>
             </div>
           </div>
 
-          <!-- 4. Tennis 2026 Live -->
+          <!-- 4. Tennis Recent Result -->
           <div onclick="navigateTo('tennis-matches')" class="group bg-white p-5 rounded-2xl border-2 border-[#1B2432] hover:bg-[#EAF4FF]/40 shadow-xs hover:shadow-md transition-all space-y-3 cursor-pointer">
             <div class="flex justify-between items-center text-xs">
               <span class="font-bold text-[#1B2432] flex items-center gap-1.5">
-                <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
+                <span class="w-2 h-2 rounded-full bg-slate-400"></span>
                 🎾 Tennis • ATP Finals
               </span>
-              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-red-50 text-red-600 font-bold border border-red-200">Set 3</span>
+              <span class="font-mono text-[10px] px-2 py-0.5 rounded-full bg-slate-100 text-slate-700 font-bold border border-slate-300">RECENT RESULT</span>
             </div>
             <div class="space-y-1.5 py-1">
               <div class="flex justify-between items-center text-sm font-black text-[#1B2432]">
                 <span class="flex items-center gap-2"><span>🇪🇸</span> C. Alcaraz</span>
-                <span class="font-mono text-xs font-bold text-google-blue">6, 5, 4*</span>
+                <span class="font-mono text-xs font-bold text-google-blue">6-4, 5-7, 7-6(5)</span>
               </div>
               <div class="flex justify-between items-center text-sm font-semibold">
                 <span class="flex items-center gap-2"><span>🇮🇹</span> J. Sinner</span>
-                <span class="font-mono text-xs font-bold text-[#1B2432]">4, 7, 3</span>
+                <span class="font-mono text-xs font-bold text-[#1B2432]">Sets: 1-2</span>
               </div>
             </div>
             <div class="text-[11px] font-mono text-[#5A6B82] border-t border-[#DCE7F3] pt-2 flex justify-between">
-              <span>Sinner serving 30-40</span>
-              <span class="text-red-600 font-bold">Break Pt</span>
+              <span>Inalpi Arena, Turin • Final</span>
+              <span class="text-emerald-700 font-bold">Alcaraz won 2-1</span>
             </div>
           </div>
         </div>
+      </div>
       </div>
 
       <!-- ============================================================== -->
