@@ -1,0 +1,73 @@
+{
+  "men": {
+    "TEST": [
+      "Australia",
+      "India",
+      "South Africa",
+      "England",
+      "New Zealand",
+      "Sri Lanka",
+      "Pakistan",
+      "West Indies",
+      "Bangladesh",
+      "Zimbabwe"
+    ],
+    "ODI": [
+      "India",
+      "Australia",
+      "South Africa",
+      "Pakistan",
+      "New Zealand",
+      "England",
+      "Sri Lanka",
+      "Bangladesh",
+      "Afghanistan",
+      "West Indies"
+    ],
+    "T20I": [
+      "India",
+      "Australia",
+      "England",
+      "South Africa",
+      "West Indies",
+      "New Zealand",
+      "Pakistan",
+      "Sri Lanka",
+      "Bangladesh",
+      "Afghanistan"
+    ]
+  },
+  "women": {
+    "TEST": [
+      "Australia",
+      "England",
+      "India",
+      "South Africa"
+    ],
+    "ODI": [
+      "Australia",
+      "England",
+      "India",
+      "South Africa",
+      "New Zealand",
+      "Sri Lanka",
+      "West Indies",
+      "Bangladesh",
+      "Pakistan",
+      "Ireland"
+    ],
+    "T20I": [
+      "Australia",
+      "England",
+      "India",
+      "New Zealand",
+      "South Africa",
+      "West Indies",
+      "Sri Lanka",
+      "Pakistan",
+      "Bangladesh",
+      "Ireland"
+    ]
+  },
+  "_instructions": "Frozen ICC ranking snapshot for 2026-11-28. Women's Test has 4 active nations. Matches where either participating team is in the top-10 list for that format and gender are selected."
+}
