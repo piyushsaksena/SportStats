@@ -1721,47 +1721,76 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
         <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
           <div class="flex justify-between items-start">
+            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Men's T20 World Cup</h4>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Biennial</span>
+          </div>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier global 20-over championship, crowning the undisputed world champions of the shortest format.</p>
+          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
+            <span>Inaugural: 2007</span>
+            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (2024 Champions)</span>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+          <div class="flex justify-between items-start">
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Men's Cricket World Cup</h4>
             <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 4 Years</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier quadrennial championship of One Day International cricket, representing the ultimate prize in the 50-over format.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier quadrennial 50-over championship, representing the pinnacle trophy in international One Day cricket.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 1975</span>
-            <span class="font-bold text-emerald-700">Holder: Australia (2023)</span>
+            <span class="font-bold text-emerald-700">Holder: Australia 🇦🇺 (2023)</span>
           </div>
-        </div><div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
-          <div class="flex justify-between items-start">
-            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Men's T20 World Cup</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Biennial / Every 2 Years</span>
-          </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The marquee global tournament for the shortest international format, showcasing explosive power-hitting and global competitiveness.</p>
-          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
-            <span>Inaugural: 2007</span>
-            <span class="font-bold text-emerald-700">Holder: India (2024)</span>
-          </div>
-        </div><div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
           <div class="flex justify-between items-start">
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC World Test Championship</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 2 Years</span>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">2-Year Cycle</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier championship for multi-day Test cricket, crowning the undisputed world Test champion at Lord's.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The pinnacle championship for traditional multi-day Test cricket, culminating in the Lord's WTC Final.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 2019</span>
-            <span class="font-bold text-emerald-700">Holder: Australia (2023)</span>
+            <span class="font-bold text-emerald-700">Holder: Australia 🇦🇺 (Next: June 2025)</span>
           </div>
-        </div><div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+          <div class="flex justify-between items-start">
+            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Women's T20 World Cup</h4>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Biennial</span>
+          </div>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The premier women's twenty-over world tournament featuring the top ten ranked international sides.</p>
+          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
+            <span>Inaugural: 2009</span>
+            <span class="font-bold text-emerald-700">Holder: New Zealand 🇳🇿 (Oct 2024)</span>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
+          <div class="flex justify-between items-start">
+            <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">Asia Cup (Men's)</h4>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 2 Years</span>
+          </div>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The continental championship of Asia contested between the region's elite Full and Associate members.</p>
+          <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
+            <span>Inaugural: 1984</span>
+            <span class="font-bold text-emerald-700">Holder: India 🇮🇳 (8 Titles)</span>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-xl bg-[#F3F8FE] border border-[#DCE7F3] hover:border-[#1B2432] space-y-2 transition-all">
           <div class="flex justify-between items-start">
             <h4 class="font-bold text-xs sm:text-sm text-[#1B2432]">ICC Champions Trophy</h4>
-            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Every 4 Years</span>
+            <span class="text-[9px] font-mono px-2 py-0.5 rounded bg-white border border-[#DCE7F3] text-[#1B2432] font-bold">Quadrennial</span>
           </div>
-          <p class="text-[11px] text-[#5A6B82] leading-snug">The prestigious tournament featuring the top eight ranked ODI teams in the world.</p>
+          <p class="text-[11px] text-[#5A6B82] leading-snug">The prestigious 'Mini-World Cup' featuring the world's top 8 ranked ODI nations.</p>
           <div class="flex items-center justify-between text-[10px] font-mono pt-1 text-[#1B2432] border-t border-[#DCE7F3]/60">
             <span>Inaugural: 1998</span>
-            <span class="font-bold text-emerald-700">Holder: Pakistan</span>
+            <span class="font-bold text-emerald-700">Holder: Pakistan 🇵🇰 (Defender)</span>
           </div>
         </div>
       </div>
-    </div>
         </div>
 
         <!-- Cricket Tab 2: Teams & Interactive Team Selector (SOLVING "I DONT SEE DIFFERENT TEAM OPTIONS") -->
@@ -7034,276 +7063,276 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
             ],
             "matches": [
                   {
-                        "date": "01 Nov 2026",
-                        "opp": "vs New Zealand (5th T20I)",
-                        "format": "T20I",
-                        "venue": "Seddon Park, Hamilton (Away)",
-                        "res": "LOST",
-                        "score": "191/8 vs 195/3 (18.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "19 Nov 2026",
+                                    "opp": "vs New Zealand (Test)",
+                                    "format": "Test",
+                                    "venue": "Wellington",
+                                    "res": "DRAW",
+                                    "score": "720/9 (166 ov) vs 368/10 (121 ov) & 239/5 (120 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "29 Oct 2026",
-                        "opp": "vs New Zealand (4th T20I)",
-                        "format": "T20I",
-                        "venue": "Seddon Park, Hamilton (Away)",
-                        "res": "WON",
-                        "score": "184/5 vs 178/7 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "15 Nov 2026",
+                                    "opp": "vs New Zealand (ODI)",
+                                    "format": "ODI",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "209/10 (42.1 ov) vs 187/10 (48.1 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "26 Oct 2026",
-                        "opp": "vs New Zealand (3rd T20I)",
-                        "format": "T20I",
-                        "venue": "Eden Park, Auckland (Away)",
-                        "res": "WON",
-                        "score": "208/6 vs 192 (19.4)",
-                        "link": "cricket-scorecard"
+                                    "date": "13 Nov 2026",
+                                    "opp": "vs New Zealand (ODI)",
+                                    "format": "ODI",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "LOST",
+                                    "score": "89/10 (26.4 ov) vs 333/10 (50 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "23 Oct 2026",
-                        "opp": "vs New Zealand (2nd T20I)",
-                        "format": "T20I",
-                        "venue": "Sky Stadium, Wellington (Away)",
-                        "res": "WON",
-                        "score": "165/4 vs 162/8 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "07 Nov 2026",
+                                    "opp": "vs New Zealand (ODI)",
+                                    "format": "ODI",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "113/7 (26 ov) vs 134/10 (41 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "20 Oct 2026",
-                        "opp": "vs New Zealand (1st T20I)",
-                        "format": "T20I",
-                        "venue": "Hagley Oval, Christchurch (Away)",
-                        "res": "WON",
-                        "score": "179/5 vs 144 (18.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "04 Nov 2026",
+                                    "opp": "vs New Zealand (ODI)",
+                                    "format": "ODI",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "143/5 (22.4 ov) vs 185/10 (40.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "12 Sep 2026",
-                        "opp": "vs England (3rd ODI)",
-                        "format": "ODI",
-                        "venue": "Lord's, London (Away)",
-                        "res": "WON",
-                        "score": "288/6 vs 272 (48.4)",
-                        "link": "cricket-scorecard"
+                                    "date": "01 Nov 2026",
+                                    "opp": "vs New Zealand (T20)",
+                                    "format": "T20",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "LOST",
+                                    "score": "191/8 (20 ov) vs 195/3 (18 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Sep 2026",
-                        "opp": "vs England (2nd ODI)",
-                        "format": "ODI",
-                        "venue": "The Oval, London (Away)",
-                        "res": "WON",
-                        "score": "314/5 vs 280 (47.1)",
-                        "link": "cricket-scorecard"
+                                    "date": "30 Oct 2026",
+                                    "opp": "vs New Zealand (T20)",
+                                    "format": "T20",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "LOST",
+                                    "score": "172/9 (20 ov) vs 259/7 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "06 Sep 2026",
-                        "opp": "vs England (1st ODI)",
-                        "format": "ODI",
-                        "venue": "Edgbaston, Birmingham (Away)",
-                        "res": "LOST",
-                        "score": "248 vs 249/4 (44.3)",
-                        "link": "cricket-scorecard"
+                                    "date": "28 Oct 2026",
+                                    "opp": "vs Zimbabwe (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "133/2 (17 ov) vs 131/10 (39.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "18 Aug 2026",
-                        "opp": "vs South Africa (3rd T20I)",
-                        "format": "T20I",
-                        "venue": "Ahmedabad (Home)",
-                        "res": "WON",
-                        "score": "212/4 vs 182 (19.1)",
-                        "link": "cricket-scorecard"
+                                    "date": "27 Oct 2026",
+                                    "opp": "vs New Zealand (T20)",
+                                    "format": "T20",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "199/4 (13.2 ov) vs 198/3 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "15 Aug 2026",
-                        "opp": "vs South Africa (2nd T20I)",
-                        "format": "T20I",
-                        "venue": "Bengaluru (Home)",
-                        "res": "WON",
-                        "score": "198/6 vs 195/8 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "25 Oct 2026",
+                                    "opp": "vs Zimbabwe (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "328/6 (50 ov) vs 207/10 (48.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Mar 2025",
-                        "opp": "vs New Zealand (Champions Trophy Final)",
-                        "format": "ODI",
-                        "venue": "Dubai (Neutral)",
-                        "res": "WON",
-                        "score": "295/5 vs 261 (47.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "24 Oct 2026",
+                                    "opp": "vs New Zealand (T20)",
+                                    "format": "T20",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "181/6 (19.5 ov) vs 180/5 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "05 Mar 2025",
-                        "opp": "vs Australia (Champions Trophy Semi)",
-                        "format": "ODI",
-                        "venue": "Dubai (Neutral)",
-                        "res": "WON",
-                        "score": "284/7 vs 278 (49.1)",
-                        "link": "cricket-scorecard"
+                                    "date": "23 Oct 2026",
+                                    "opp": "vs Zimbabwe (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "200/1 (27.1 ov) vs 197/10 (49.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "23 Feb 2025",
-                        "opp": "vs Pakistan (Champions Trophy Group)",
-                        "format": "ODI",
-                        "venue": "Dubai (Neutral)",
-                        "res": "WON",
-                        "score": "266/4 vs 262 (48.5)",
-                        "link": "cricket-scorecard"
+                                    "date": "22 Oct 2026",
+                                    "opp": "vs New Zealand (T20)",
+                                    "format": "T20",
+                                    "venue": "Hamilton / Eden Park",
+                                    "res": "WON",
+                                    "score": "230/6 (19.4 ov) vs 225/4 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "07 Jan 2025",
-                        "opp": "vs Australia (5th Test, BGT)",
-                        "format": "Test",
-                        "venue": "SCG, Sydney (Away)",
-                        "res": "DRAW",
-                        "score": "380 & 245/4d vs 320 & 180/3",
-                        "link": "cricket-scorecard"
+                                    "date": "20 Oct 2026",
+                                    "opp": "vs Zimbabwe (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "216/7 (20 ov) vs 124/7 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "30 Dec 2024",
-                        "opp": "vs Australia (4th Test, BGT)",
-                        "format": "Test",
-                        "venue": "MCG, Melbourne (Away)",
-                        "res": "LOST",
-                        "score": "260 & 210 vs 350 & 121/2",
-                        "link": "cricket-scorecard"
+                                    "date": "18 Oct 2026",
+                                    "opp": "vs Zimbabwe (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "104/1 (8.5 ov) vs 102/8 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "18 Dec 2024",
-                        "opp": "vs Australia (3rd Test, BGT)",
-                        "format": "Test",
-                        "venue": "Gabba, Brisbane (Away)",
-                        "res": "WON",
-                        "score": "310 & 250 vs 280 & 260",
-                        "link": "cricket-scorecard"
+                                    "date": "17 Oct 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "DRAW",
+                                    "score": "118/5 (7.4 ov) vs Did not bat",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "10 Dec 2024",
-                        "opp": "vs Australia (2nd Test, BGT)",
-                        "format": "Test",
-                        "venue": "Adelaide Oval (Away)",
-                        "res": "LOST",
-                        "score": "180 & 175 vs 337 & 19/0",
-                        "link": "cricket-scorecard"
+                                    "date": "16 Oct 2026",
+                                    "opp": "vs Zimbabwe (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "116/6 (15.4 ov) vs 114/5 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "26 Nov 2024",
-                        "opp": "vs Australia (1st Test, BGT)",
-                        "format": "Test",
-                        "venue": "Perth Stadium (Away)",
-                        "res": "WON",
-                        "score": "150 & 487/6d vs 104 & 238",
-                        "link": "cricket-scorecard"
+                                    "date": "14 Oct 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "223/10 (19.3 ov) vs 247/3 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "03 Nov 2024",
-                        "opp": "vs New Zealand (3rd Test)",
-                        "format": "Test",
-                        "venue": "Wankhede, Mumbai (Home)",
-                        "res": "LOST",
-                        "score": "263 & 121 vs 235 & 174",
-                        "link": "cricket-scorecard"
+                                    "date": "11 Oct 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "223/10 (20 ov) vs 209/7 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "26 Oct 2024",
-                        "opp": "vs New Zealand (2nd Test)",
-                        "format": "Test",
-                        "venue": "MCA, Pune (Home)",
-                        "res": "LOST",
-                        "score": "156 & 245 vs 259 & 255",
-                        "link": "cricket-scorecard"
+                                    "date": "09 Oct 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "249/5 (20 ov) vs 252/4 (18.3 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "20 Oct 2024",
-                        "opp": "vs New Zealand (1st Test)",
-                        "format": "Test",
-                        "venue": "Chinnaswamy, Bengaluru (Home)",
-                        "res": "LOST",
-                        "score": "46 & 462 vs 402 & 110/2",
-                        "link": "cricket-scorecard"
+                                    "date": "06 Oct 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "172/2 (14.4 ov) vs 171/10 (19.1 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "01 Oct 2024",
-                        "opp": "vs Bangladesh (2nd Test)",
-                        "format": "Test",
-                        "venue": "Green Park, Kanpur (Home)",
-                        "res": "WON",
-                        "score": "285/9d & 98/3 vs 233 & 146",
-                        "link": "cricket-scorecard"
+                                    "date": "03 Oct 2026",
+                                    "opp": "vs Pakistan (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "211/6 (20 ov) vs 192/6 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "22 Sep 2024",
-                        "opp": "vs Bangladesh (1st Test)",
-                        "format": "Test",
-                        "venue": "Chepauk, Chennai (Home)",
-                        "res": "WON",
-                        "score": "376 & 287/4d vs 149 & 234",
-                        "link": "cricket-scorecard"
+                                    "date": "03 Oct 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "351/7 (50 ov) vs 352/5 (48.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "29 Jun 2024",
-                        "opp": "vs South Africa (T20 WC Final)",
-                        "format": "T20I",
-                        "venue": "Bridgetown, Barbados (Neutral)",
-                        "res": "WON",
-                        "score": "176/7 vs 169/8 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "01 Oct 2026",
+                                    "opp": "vs Sri Lanka (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "169/7 (20 ov) vs 45/10 (9.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "27 Jun 2024",
-                        "opp": "vs England (T20 WC Semi)",
-                        "format": "T20I",
-                        "venue": "Providence, Guyana (Neutral)",
-                        "res": "WON",
-                        "score": "171/7 vs 103 (16.4)",
-                        "link": "cricket-scorecard"
+                                    "date": "30 Sep 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "406/2 (43.3 ov) vs 405/7 (50 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "24 Jun 2024",
-                        "opp": "vs Australia (T20 WC Super 8)",
-                        "format": "T20I",
-                        "venue": "Gros Islet, St Lucia (Neutral)",
-                        "res": "WON",
-                        "score": "205/5 vs 181/7 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "27 Sep 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "300/2 (41.4 ov) vs 295/7 (50 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "22 Jun 2024",
-                        "opp": "vs Bangladesh (T20 WC Super 8)",
-                        "format": "T20I",
-                        "venue": "North Sound, Antigua (Neutral)",
-                        "res": "WON",
-                        "score": "196/5 vs 146/8 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "22 Sep 2026",
+                                    "opp": "vs Japan (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "32/4 (5 ov) vs 30/3 (5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "20 Jun 2024",
-                        "opp": "vs Afghanistan (T20 WC Super 8)",
-                        "format": "T20I",
-                        "venue": "Bridgetown, Barbados (Neutral)",
-                        "res": "WON",
-                        "score": "181/8 vs 134 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "22 Sep 2026",
+                                    "opp": "vs Sri Lanka (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "216/3 (20 ov) vs 69/10 (15.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Jun 2024",
-                        "opp": "vs Pakistan (T20 WC Group)",
-                        "format": "T20I",
-                        "venue": "New York (Neutral)",
-                        "res": "WON",
-                        "score": "119 vs 113/7 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "20 Sep 2026",
+                                    "opp": "vs Bangladesh (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "195/4 (20 ov) vs 81/10 (15.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "19 Nov 2023",
-                        "opp": "vs Australia (ODI WC Final)",
-                        "format": "ODI",
-                        "venue": "Ahmedabad (Home)",
-                        "res": "LOST",
-                        "score": "240 vs 241/4 (43.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "18 Sep 2026",
+                                    "opp": "vs Japan (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "59/2 (5 ov) vs 57/10 (19.5 ov)",
+                                    "link": "cricket-scorecard"
                   }
-            ]
+]
       },
       "australia": {
             "name": "Australia Men's National Team",
@@ -8484,276 +8513,276 @@ Following the merger of the BAA and NBL to form the National Basketball Associat
             ],
             "matches": [
                   {
-                        "date": "01 Nov 2026",
-                        "opp": "vs India (5th T20I)",
-                        "format": "T20I",
-                        "venue": "Seddon Park, Hamilton (Home)",
-                        "res": "WON",
-                        "score": "195/3 vs 191/8 (18.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "19 Nov 2026",
+                                    "opp": "vs India (Test)",
+                                    "format": "Test",
+                                    "venue": "International Venue",
+                                    "res": "DRAW",
+                                    "score": "368/10 (121 ov) & 239/5 (120 ov) vs 720/9 (166 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "29 Oct 2026",
-                        "opp": "vs India (4th T20I)",
-                        "format": "T20I",
-                        "venue": "Seddon Park, Hamilton (Home)",
-                        "res": "LOST",
-                        "score": "178/7 vs 184/5 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "15 Nov 2026",
+                                    "opp": "vs India (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "187/10 (48.1 ov) vs 209/10 (42.1 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "26 Oct 2026",
-                        "opp": "vs India (3rd T20I)",
-                        "format": "T20I",
-                        "venue": "Eden Park, Auckland (Home)",
-                        "res": "LOST",
-                        "score": "192 vs 208/6 (19.4)",
-                        "link": "cricket-scorecard"
+                                    "date": "13 Nov 2026",
+                                    "opp": "vs India (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "333/10 (50 ov) vs 89/10 (26.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "23 Oct 2026",
-                        "opp": "vs India (2nd T20I)",
-                        "format": "T20I",
-                        "venue": "Sky Stadium, Wellington (Home)",
-                        "res": "LOST",
-                        "score": "162/8 vs 165/4 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "07 Nov 2026",
+                                    "opp": "vs India (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "134/10 (41 ov) vs 113/7 (26 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "20 Oct 2026",
-                        "opp": "vs India (1st T20I)",
-                        "format": "T20I",
-                        "venue": "Hagley Oval, Christchurch (Home)",
-                        "res": "LOST",
-                        "score": "144 vs 179/5 (18.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "04 Nov 2026",
+                                    "opp": "vs India (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "185/10 (40.2 ov) vs 143/5 (22.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "15 Oct 2026",
-                        "opp": "vs Australia (3rd T20I)",
-                        "format": "T20I",
-                        "venue": "Eden Park, Auckland (Home)",
-                        "res": "LOST",
-                        "score": "180/7 vs 188/4 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "01 Nov 2026",
+                                    "opp": "vs India (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "195/3 (18 ov) vs 191/8 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "12 Oct 2026",
-                        "opp": "vs Australia (2nd T20I)",
-                        "format": "T20I",
-                        "venue": "Wellington (Home)",
-                        "res": "WON",
-                        "score": "165/3 vs 162 (17.4)",
-                        "link": "cricket-scorecard"
+                                    "date": "30 Oct 2026",
+                                    "opp": "vs India (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "259/7 (20 ov) vs 172/9 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Oct 2026",
-                        "opp": "vs Australia (1st T20I)",
-                        "format": "T20I",
-                        "venue": "Christchurch (Home)",
-                        "res": "LOST",
-                        "score": "155 vs 175/6 (19.1)",
-                        "link": "cricket-scorecard"
+                                    "date": "27 Oct 2026",
+                                    "opp": "vs India (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "198/3 (20 ov) vs 199/4 (13.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Mar 2025",
-                        "opp": "vs India (Champions Trophy Final)",
-                        "format": "ODI",
-                        "venue": "Dubai (Neutral)",
-                        "res": "LOST",
-                        "score": "261 vs 295/5 (47.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "24 Oct 2026",
+                                    "opp": "vs India (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "180/5 (20 ov) vs 181/6 (19.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "02 Mar 2025",
-                        "opp": "vs South Africa (Champions Trophy Semi)",
-                        "format": "ODI",
-                        "venue": "Lahore (Neutral)",
-                        "res": "WON",
-                        "score": "252/5 vs 248 (46.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "22 Oct 2026",
+                                    "opp": "vs India (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "225/4 (20 ov) vs 230/6 (19.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "19 Feb 2025",
-                        "opp": "vs Pakistan (Champions Trophy)",
-                        "format": "ODI",
-                        "venue": "Karachi (Away)",
-                        "res": "WON",
-                        "score": "244/5 vs 240 (46.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "22 Oct 2026",
+                                    "opp": "vs Australia (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "DRAW",
+                                    "score": "11/2 (2.4 ov) vs Did not bat",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "05 Jan 2025",
-                        "opp": "vs England (3rd Test)",
-                        "format": "Test",
-                        "venue": "Hamilton (Home)",
-                        "res": "LOST",
-                        "score": "250 & 220 vs 280 & 240",
-                        "link": "cricket-scorecard"
+                                    "date": "20 Oct 2026",
+                                    "opp": "vs Australia (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "127/8 (20 ov) vs 167/7 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "28 Dec 2024",
-                        "opp": "vs England (2nd Test)",
-                        "format": "Test",
-                        "venue": "Wellington (Home)",
-                        "res": "LOST",
-                        "score": "290 & 160 vs 320 & 180",
-                        "link": "cricket-scorecard"
+                                    "date": "18 Oct 2026",
+                                    "opp": "vs Australia (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "162/2 (20 ov) vs 165/8 (18.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "03 Nov 2024",
-                        "opp": "vs India (3rd Test)",
-                        "format": "Test",
-                        "venue": "Wankhede, Mumbai (Away)",
-                        "res": "WON",
-                        "score": "235 & 174 vs 263 & 121",
-                        "link": "cricket-scorecard"
+                                    "date": "21 Jul 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "268/9 (50 ov) vs 269/8 (47.3 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "26 Oct 2024",
-                        "opp": "vs India (2nd Test)",
-                        "format": "Test",
-                        "venue": "MCA, Pune (Away)",
-                        "res": "WON",
-                        "score": "259 & 255 vs 156 & 245",
-                        "link": "cricket-scorecard"
+                                    "date": "19 Jul 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "189/9 (44.1 ov) vs 188/10 (44.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "20 Oct 2024",
-                        "opp": "vs India (1st Test)",
-                        "format": "Test",
-                        "venue": "Chinnaswamy, Bengaluru (Away)",
-                        "res": "WON",
-                        "score": "402 & 110/2 vs 46 & 462",
-                        "link": "cricket-scorecard"
+                                    "date": "16 Jul 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "141/4 (39.3 ov) vs 140/10 (37.1 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "29 Sep 2024",
-                        "opp": "vs Sri Lanka (2nd Test)",
-                        "format": "Test",
-                        "venue": "Galle (Away)",
-                        "res": "LOST",
-                        "score": "88 & 360 vs 602/5d",
-                        "link": "cricket-scorecard"
+                                    "date": "13 Jul 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "141/5 (32.4 ov) vs 138/10 (36 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "23 Sep 2024",
-                        "opp": "vs Sri Lanka (1st Test)",
-                        "format": "Test",
-                        "venue": "Galle (Away)",
-                        "res": "LOST",
-                        "score": "340 & 211 vs 305 & 309",
-                        "link": "cricket-scorecard"
+                                    "date": "11 Jul 2026",
+                                    "opp": "vs West Indies (ODI)",
+                                    "format": "ODI",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "267/10 (49.5 ov) vs 268/3 (48.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "17 Jun 2024",
-                        "opp": "vs Papua New Guinea (T20 WC Group)",
-                        "format": "T20I",
-                        "venue": "Tarouba, Trinidad (Neutral)",
-                        "res": "WON",
-                        "score": "79/3 vs 78 (12.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "27 Jun 2026",
+                                    "opp": "vs England (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "163/6 (20 ov) vs 164/1 (17.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "14 Jun 2024",
-                        "opp": "vs Uganda (T20 WC Group)",
-                        "format": "T20I",
-                        "venue": "Tarouba, Trinidad (Neutral)",
-                        "res": "WON",
-                        "score": "41/1 vs 40 (5.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "25 Jun 2026",
+                                    "opp": "vs England (Test)",
+                                    "format": "Test",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "438/10 (114.5 ov) & 288/9 (94 ov) vs 354/10 (88.2 ov) & 212/10 (51.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "12 Jun 2024",
-                        "opp": "vs West Indies (T20 WC Group)",
-                        "format": "T20I",
-                        "venue": "Tarouba, Trinidad (Neutral)",
-                        "res": "LOST",
-                        "score": "136/9 vs 149/9 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "23 Jun 2026",
+                                    "opp": "vs Scotland (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "132/4 (18.2 ov) vs 131/7 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "07 Jun 2024",
-                        "opp": "vs Afghanistan (T20 WC Group)",
-                        "format": "T20I",
-                        "venue": "Providence, Guyana (Neutral)",
-                        "res": "LOST",
-                        "score": "75 vs 159/6 (15.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "19 Jun 2026",
+                                    "opp": "vs Ireland (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "140/6 (20 ov) vs 136/4 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "27 Apr 2024",
-                        "opp": "vs Pakistan (5th T20I)",
-                        "format": "T20I",
-                        "venue": "Lahore (Away)",
-                        "res": "LOST",
-                        "score": "169 vs 178/5 (19.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "17 Jun 2026",
+                                    "opp": "vs England (Test)",
+                                    "format": "Test",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "391/10 (96.2 ov) & 362/10 (87.1 ov) vs 291/10 (84 ov) & 209/10 (58.1 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "25 Apr 2024",
-                        "opp": "vs Pakistan (4th T20I)",
-                        "format": "T20I",
-                        "venue": "Lahore (Away)",
-                        "res": "WON",
-                        "score": "178/7 vs 174/8 (20.0)",
-                        "link": "cricket-scorecard"
+                                    "date": "16 Jun 2026",
+                                    "opp": "vs Sri Lanka (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "150/6 (20 ov) vs 153/5 (19.4 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "12 Mar 2024",
-                        "opp": "vs Australia (2nd Test)",
-                        "format": "Test",
-                        "venue": "Hagley Oval, Christchurch (Home)",
-                        "res": "LOST",
-                        "score": "162 & 372 vs 256 & 281/7",
-                        "link": "cricket-scorecard"
+                                    "date": "13 Jun 2026",
+                                    "opp": "vs West Indies (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "162/6 (20 ov) vs 163/3 (19.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "03 Mar 2024",
-                        "opp": "vs Australia (1st Test)",
-                        "format": "Test",
-                        "venue": "Basin Reserve, Wellington (Home)",
-                        "res": "LOST",
-                        "score": "179 & 196 vs 383 & 164",
-                        "link": "cricket-scorecard"
+                                    "date": "04 Jun 2026",
+                                    "opp": "vs England (Test)",
+                                    "format": "Test",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "113/10 (29.5 ov) & 138/10 (40.3 ov) vs 140/10 (39.4 ov) & 226/10 (56 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "16 Feb 2024",
-                        "opp": "vs South Africa (2nd Test)",
-                        "format": "Test",
-                        "venue": "Hamilton (Home)",
-                        "res": "WON",
-                        "score": "211 & 269/3 vs 242 & 235",
-                        "link": "cricket-scorecard"
+                                    "date": "27 May 2026",
+                                    "opp": "vs Ireland (Test)",
+                                    "format": "Test",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "490/8 (119 ov) vs 179/10 (45 ov) & 232/10 (63.2 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "07 Feb 2024",
-                        "opp": "vs South Africa (1st Test)",
-                        "format": "Test",
-                        "venue": "Mount Maunganui (Home)",
-                        "res": "WON",
-                        "score": "511 & 179/4d vs 162 & 247",
-                        "link": "cricket-scorecard"
+                                    "date": "25 May 2026",
+                                    "opp": "vs England (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "80/10 (19.1 ov) vs 81/3 (13.5 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "15 Nov 2023",
-                        "opp": "vs India (ODI WC Semi)",
-                        "format": "ODI",
-                        "venue": "Mumbai (Away)",
-                        "res": "LOST",
-                        "score": "327 vs 397/4 (48.5)",
-                        "link": "cricket-scorecard"
+                                    "date": "23 May 2026",
+                                    "opp": "vs England (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "WON",
+                                    "score": "170/5 (20 ov) vs 156/6 (20 ov)",
+                                    "link": "cricket-scorecard"
                   },
                   {
-                        "date": "09 Nov 2023",
-                        "opp": "vs Sri Lanka (ODI WC)",
-                        "format": "ODI",
-                        "venue": "Bengaluru (Neutral)",
-                        "res": "WON",
-                        "score": "172/5 vs 171 (23.2)",
-                        "link": "cricket-scorecard"
+                                    "date": "20 May 2026",
+                                    "opp": "vs England (T20)",
+                                    "format": "T20",
+                                    "venue": "International Venue",
+                                    "res": "LOST",
+                                    "score": "136/7 (20 ov) vs 140/3 (17.2 ov)",
+                                    "link": "cricket-scorecard"
                   }
-            ]
+]
       }
 };
 

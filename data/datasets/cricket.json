@@ -26,6 +26,14 @@
   },
   "major_tournaments": [
     {
+      "name": "ICC Men's T20 World Cup",
+      "format": "Group Stage & Super 8/Knockout (T20I)",
+      "frequency": "Biennial / Every 2 Years",
+      "first_edition": 2007,
+      "current_holder": "India (2024)",
+      "description": "The marquee global tournament for the shortest international format, showcasing explosive power-hitting and global competitiveness."
+    },
+    {
       "name": "ICC Men's Cricket World Cup",
       "format": "Round-Robin and Knockout (ODI)",
       "frequency": "Every 4 Years",
@@ -34,20 +42,28 @@
       "description": "The premier quadrennial championship of One Day International cricket, representing the ultimate prize in the 50-over format."
     },
     {
-      "name": "ICC Men's T20 World Cup",
-      "format": "Group Stage and Super 8/Knockout (T20I)",
-      "frequency": "Biennial / Every 2 Years",
-      "first_edition": 2007,
-      "current_holder": "India (2024)",
-      "description": "The marquee global tournament for the shortest international format, showcasing explosive power-hitting and global competitiveness."
-    },
-    {
       "name": "ICC World Test Championship",
       "format": "Two-Year League Cycle & One-Off Final",
       "frequency": "Every 2 Years",
       "first_edition": 2019,
       "current_holder": "Australia (2023)",
       "description": "The premier championship for multi-day Test cricket, crowning the undisputed world Test champion at Lord's."
+    },
+    {
+      "name": "ICC Women's T20 World Cup",
+      "format": "Group Stage & Knockout (T20I)",
+      "frequency": "Biennial / Every 2 Years",
+      "first_edition": 2009,
+      "current_holder": "New Zealand (2024)",
+      "description": "The premier global twenty-over world tournament for women's international cricket."
+    },
+    {
+      "name": "Asia Cup (Men's)",
+      "format": "ODI / T20I Format",
+      "frequency": "Every 2 Years",
+      "first_edition": 1984,
+      "current_holder": "India (2023)",
+      "description": "The continental championship of Asia featuring the region's elite Full and Associate members."
     },
     {
       "name": "ICC Champions Trophy",
