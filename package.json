@@ -5,8 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "python -m uvicorn sportstats.api.main:app --app-dir backend/src --host 127.0.0.1 --port 8000 --reload",
-    "test": "python -m pytest backend/tests/ -q",
-    "build": "echo 'SportStats zero-build static deployment ready.'"
+    "test": "python -m pytest backend/tests/ -q"
   },
   "keywords": [
     "sports-analytics",
