@@ -1345,10 +1345,9 @@ HTML_DASHBOARD = r'''<!DOCTYPE html>
           </div>
         </div>
       </div>
-      </div>
 
       <!-- ============================================================== -->
-      <!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- VIEW 2: LEAGUES<!-- DEDICATED VIEW: TOURNAMENTS & LEAGUES (Header link: LEAGUES)   -->
+      <!-- VIEW 2: LEAGUES - DEDICATED VIEW: TOURNAMENTS & LEAGUES (Header link: LEAGUES) -->
       <!-- ============================================================== -->
       <div id="view-tournaments" class="tab-content space-y-8">
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-[#DCE7F3] pb-4">
@@ -2978,30 +2977,7 @@ The modern era has witnessed massive commercial expansion, broadcast innovation,
     </div>
         </div>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      </div>
 
       <!-- ============================================================== -->
       <!-- VIEW 3: FOOTBALL                                               -->
